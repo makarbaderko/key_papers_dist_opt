@@ -1,3 +1,7 @@
+# Можно ли не запускать ноутбук?
+
+Да, можно посмотреть на исполненную версию в [Google Colab](https://colab.research.google.com/drive/1EYf0gBlBSeV_VehzuBeoxKhIa0c-hEZM?usp=sharing)
+
 # Как запустить ноутбук
 
 В `Research.ipynb` весь код исследования: работа с API, отбор и объединение статей, расчёт показателей, граф и сравнение по годам.
