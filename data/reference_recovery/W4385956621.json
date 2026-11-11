@@ -1,0 +1,17 @@
+{
+  "id": "W4385956621",
+  "title": "FPPFL: FedAVG-based Privacy-Preserving Federated Learning",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3608251.3608281",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1145/3608251.3608281",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:09:29.825520+00:00"
+}

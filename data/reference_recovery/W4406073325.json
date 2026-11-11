@@ -1,0 +1,32 @@
+{
+  "id": "W4406073325",
+  "title": "A New Theoretical Perspective on Data Heterogeneity in Federated Optimization",
+  "no_indexed_refs": true,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2407.15567",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:00:51.674925+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/2407.15567",
+  "pdf_sha256": "37fd224d7c032b8cee532336aacc94f843ccc2359d92acd05c474becf78f9781",
+  "page_count": 51,
+  "reference_start_page": 9,
+  "bibliography": [
+    {
+      "page": 9,
+      "text": "\nLin, T., Stich, S. U., Patel, K. K., and Jaggi, M.\nDon’t use large mini-batches, use local SGD. In\nInternational Conference on Learning Representations,\n\nBottou, L., Curtis, F. E., and Nocedal, J. Optimization\nmethods for large-scale machine learning. SAIM Review,\n9\n"
+    },
+    {
+      "page": 10,
+      "text": "A New Theoretical Perspective on Data Heterogeneity in Federated Optimization\n\n2020. URL https://openreview.net/forum?\nid=B1eyO1BFPr.\n\nYang, H., Fang, M., and Liu, J. Achieving linear speedup\nwith partial worker participation in non-iid federated\nlearning. In International Conference on Learning\nRepresentations, 2020.\n\nMcMahan, B., Moore, E., Ramage, D., Hampson, S.,\nand y Arcas, B. A. Communication-Efficient Learning\nof Deep Networks from Decentralized Data. In Proc.\nInternational Conference on Artificial Intelligence and\nStatistics (AISTATS), pp. 1273–1282, 2017.\n\nYu, H., Jin, R., and Yang, S. On the linear speedup\nanalysis of communication efficient momentum SGD\nfor distributed non-convex optimization. In ICML, pp.\n7184–7193, Jun. 2019a.\n\nNiknam, S., Dhillon, H. S., and Reed, J. H. Federated\nlearning for wireless communications: Motivation,\nopportunities, and challenges. IEEE Communications\nMagazine, 58(6):46–51, 2020.\n\nYu, H., Yang, S., and Zhu, S.\nParallel restarted\nSGD with faster convergence and less communication:\nDemystifying why model averaging works for deep\nlearning. In AAAI, Jan.–Feb. 2019b.\n\nReddi, S., Charles, Z., Zaheer, M., Garrett, Z., Rush, K.,\nKonečný, J., Kumar, S., and McMahan, H. B. Adaptive\nfederated optimization, 2020.\n\nZhang, M.-L. and Zhou, Z.-H. A review on multi-label\nlearning algorithms. IEEE Transactions on Knowledge\nand Data Engineering, 26(8):1819–1837, 2014. doi: 10.\n1109/TKDE.2013.39.\n\nRichtárik, P., Sokolov, I., and Fatkhullin, I. Ef21: A new,\nsimpler, theoretically better, and practically faster error\nfeedback. Advances in Neural Information Processing\nSystems, 34:4384–4396, 2021.\n\nZhao, Y., Li, M., Lai, L., Suda, N., Civin, D., and Chandra,\nV. Federated learning with non-iid data. arXiv preprint\narXiv:1806.00582, 2018.\n\nRieke, N., Hancox, J., Li, W., Milletari, F., Roth, H. R.,\nAlbarqouni, S., Bakas, S., Galtier, M. N., Landman, B. A.,\nMaier-Hein, K., et al. The future of digital health with\nfederated learning. NPJ digital medicine, 3(1):1–7, 2020.\nWang, J. and Joshi, G.\nCooperative SGD: A\nunified framework for the design and analysis of\ncommunication-efficient SGD algorithms. In ICML,\n2019.\nWang, J., Liu, Q., Liang, H., Joshi, G., and Poor,\nH. V. Tackling the objective inconsistency problem\nin heterogeneous federated optimization. Advances in\nNeural Information Processing Systems, 33:7611–7623,\n2020a.\nWang, J., Tantia, V., Ballas, N., and Rabbat, M. Slowmo:\nImproving communication-efficient distributed SGD with\nslow momentum. In International Conference on\nLearning Representations, 2020b.\nWang, J., Das, R., Joshi, G., Kale, S., Xu, Z., and Zhang, T.\nOn the unreasonable effectiveness of federated averaging\nwith heterogeneous data, 2022.\nWoodworth, B., Patel, K. K., Stich, S., Dai, Z., Bullins,\nB., Mcmahan, B., Shamir, O., and Srebro, N. Is local\nSGD better than minibatch SGD? In Proceedings of the\n37th International Conference on Machine Learning, pp.\n10334–10343, 2020a.\nWoodworth, B. E., Patel, K. K., and Srebro, N. Minibatch\nvs local SGD for heterogeneous distributed learning.\nAdvances in Neural Information Processing Systems, 33:\n6281–6292, 2020b.\n10\n"
+    },
+    {
+      "page": 11,
+      "text": "A New Theoretical Perspective on Data Heterogeneity in Federated Optimization\n"
+    }
+  ]
+}

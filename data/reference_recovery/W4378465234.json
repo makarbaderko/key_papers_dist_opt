@@ -1,0 +1,24 @@
+{
+  "id": "W4378465234",
+  "title": "Local SGD Accelerates Convergence by Exploiting Second Order Information of the Loss Function",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2305.15013",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:08:53.286216+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/2305.15013",
+  "pdf_sha256": "d0646c6adeb99303fe20fb484e672670163f394a2389594e247ebdb99d0835b0",
+  "page_count": 15,
+  "reference_start_page": 10,
+  "bibliography": [
+    {
+      "page": 10,
+      "text": "[1] Anna Choromanska, Mikael Henaff, Michael Mathieu, Gérard Ben Arous, and Yann LeCun.\nThe loss surfaces of multilayer networks. In Artificial intelligence and statistics, pages 192–204.\nPMLR, 2015.\n[2] Yann N Dauphin, Razvan Pascanu, Caglar Gulcehre, Kyunghyun Cho, Surya Ganguli, and\nYoshua Bengio. Identifying and attacking the saddle point problem in high-dimensional nonconvex optimization. Advances in neural information processing systems, 27, 2014.\n[3] Andrew Hard, Kanishka Rao, Rajiv Mathews, Swaroop Ramaswamy, Françoise Beaufays, Sean\nAugenstein, Hubert Eichner, Chloé Kiddon, and Daniel Ramage. Federated learning for mobile\nkeyboard prediction. arXiv preprint arXiv:1811.03604, 2018.\n[4] Sai Praneeth Karimireddy, Satyen Kale, Mehryar Mohri, Sashank Reddi, Sebastian Stich, and\nAnanda Theertha Suresh. Scaffold: Stochastic controlled averaging for federated learning. In\nInternational Conference on Machine Learning, pages 5132–5143. PMLR, 2020.\n[5] Ahmed Khaled, Konstantin Mishchenko, and Peter Richtárik. First analysis of local gd on\nheterogeneous data. arXiv preprint arXiv:1909.04715, 2019.\n[6] Ahmed Khaled, Konstantin Mishchenko, and Peter Richtárik. Tighter theory for local sgd on\nidentical and heterogeneous data. In International Conference on Artificial Intelligence and\nStatistics, pages 4519–4529. PMLR, 2020.\n[7] Tao Lin, Sebastian U Stich, Kumar Kshitij Patel, and Martin Jaggi. Don’t use large mini-batches,\nuse local sgd. arXiv preprint arXiv:1808.07217, 2018.\n[8] Yang Liu, Anbu Huang, Yun Luo, He Huang, Youzhi Liu, Yuanyuan Chen, Lican Feng, Tianjian\nChen, Han Yu, and Qiang Yang. Fedvision: An online visual object detection platform powered\nby federated learning. In Proceedings of the AAAI Conference on Artificial Intelligence,\nvolume 34, pages 13172–13179, 2020.\n[9] Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, and Blaise Aguera y Arcas.\nCommunication-efficient learning of deep networks from decentralized data. In Artificial\nintelligence and statistics, pages 1273–1282. PMLR, 2017.\n[10] Micah J Sheller, Brandon Edwards, G Anthony Reina, Jason Martin, Sarthak Pati, Aikaterini\nKotrotsou, Mikhail Milchenko, Weilin Xu, Daniel Marcus, Rivka R Colen, et al. Federated\nlearning in medicine: facilitating multi-institutional collaborations without sharing patient data.\nScientific reports, 10(1):1–12, 2020.\n[11] Chi-Ren Shyu, Karisma Trinanda Putra, Hsing-Chung Chen, Yuan-Yu Tsai, KSM Tozammel\nHossain, Wei Jiang, and Zon-Yin Shae. A systematic review of federated learning in the\nhealthcare area: From the perspective of data properties and applications. Applied Sciences,\n11(23):11191, 2021.\n[12] Artin Spiridonoff, Alex Olshevsky, and Ioannis Ch Paschalidis. Local sgd with a communication\noverhead depending only on the number of workers. arXiv preprint arXiv:2006.02582, 2020.\n[13] Sebastian U Stich. Local sgd converges fast and communicates little.\narXiv:1805.09767, 2018.\n\narXiv preprint\n\n[14] Jianyu Wang and Gauri Joshi. Cooperative sgd: A unified framework for the design and analysis\nof local-update sgd algorithms. The Journal of Machine Learning Research, 22(1):9709–9758,\n2021.\n[15] Haibo Yang, Minghong Fang, and Jia Liu. Achieving linear speedup with partial worker\nparticipation in non-iid federated learning. arXiv preprint arXiv:2101.11203, 2021.\n[16] Hao Yu, Sen Yang, and Shenghuo Zhu. Parallel restarted sgd with faster convergence and less\ncommunication: Demystifying why model averaging works for deep learning. In Proceedings\nof the AAAI Conference on Artificial Intelligence, volume 33, pages 5693–5700, 2019.\n[17] Jian Zhang, Christopher De Sa, Ioannis Mitliagkas, and Christopher Ré. Parallel sgd: When\ndoes averaging help? arXiv preprint arXiv:1606.07365, 2016.\n10\n"
+    }
+  ]
+}

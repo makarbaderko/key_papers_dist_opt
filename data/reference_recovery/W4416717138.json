@@ -1,0 +1,24 @@
+{
+  "id": "W4416717138",
+  "title": "Evaluating Local Update Strategies in FedAvg: Effects of Local Epochs and Client Participation on CIFAR-10",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.ewadirect.com/proceedings/tns/article/view/29902/pdf",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:13:08.390116+00:00",
+  "extractor_version": 3,
+  "url": "https://tns.ewapub.com/article/view/29902.pdf",
+  "pdf_sha256": "19b1f307a016ad29a0a34ed242aefb66b5655fce7c65d08e532c956983831acc",
+  "page_count": 11,
+  "reference_start_page": 11,
+  "bibliography": [
+    {
+      "page": 11,
+      "text": "[1] P. Kairouz et al., “Advances and Open Problems in Federated Learning, ” arXiv preprint arXiv: 1912.04977, 2021.\n[2] B. McMahan, E. Moore, D. Ramage, S. Hampson, and B. A. y Arcas, “Communication-Efficient Learning of Deep\nNetworks from Decentralized Data, ” arXiv preprint arXiv: 1602.05629, 2017.\n[3] A. Khaled, K. Mishchenko, and P. Richtárik, “First Analysis of Local GD on Heterogeneous Data, ” arXiv preprint\narXiv: 1909.04715, 2019.\n[4] S. P. Karimireddy, S. Kale, M. Mohri, S. Reddi, S. Stich, and S. A. T. Suresh, “SCAFFOLD: Stochastic Controlled\nAveraging for Federated Learning, ” arXiv preprint arXiv: 1910.06378, 2020.\n[5] T. Li, A. K. Sahu, V. Smith, and V. Talwalkar, “Federated Optimization in Heterogeneous Networks, ” arXiv\npreprint arXiv: 1812.06127, 2020.\n[6] X. Lian, C. Zhang, H. Zhang, C.-J. Hsieh, W. Zhang, and J. Liu, “Can Decentralized Algorithms Outperform\nCentralized Algorithms? A Case Study for Parallel SGD, ” arXiv preprint arXiv: 1705.09056, 2017.\n[7] S. U. Stich, “Local SGD Converges Fast and Communicates Little, ” arXiv preprint arXiv: 1805.09767, 2019.\n[8] A. Krizhevsky and G. Hinton, Learning Multiple Layers of Features from Tiny Images, 2009.\n[9] L. Li, Y. Fan, M. Tse, and K. Y. Lin, “A review of applications in federated learning, ” Computers & Industrial\nEngineering, vol. 149, p. 106854, 2020.\n[10] J. Wen, Z. Zhang, Y. Lan, Z. Cui, J. Cai, and W. Zhang, “A survey on federated learning: challenges and\napplications, ” International Journal of Machine Learning and Cybernetics, vol. 14, no. 2, pp. 513–535, 2023.\n\n50\n"
+    }
+  ]
+}

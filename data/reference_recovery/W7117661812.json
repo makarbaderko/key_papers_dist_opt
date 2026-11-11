@@ -1,0 +1,32 @@
+{
+  "id": "W7117661812",
+  "title": "Mechanistic Evidence for Preserved-but-Misaligned Representations in Non-IID FedAvg",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2512.23043",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:12:02.082453+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/2512.23043",
+  "pdf_sha256": "5357c3673f6c970560098f47ae363e305fa48476c143ba4ccd548d0c6a32f37c",
+  "page_count": 18,
+  "reference_start_page": 8,
+  "bibliography": [
+    {
+      "page": 8,
+      "text": "Ainsworth, S. K., Hayase, J., and Srinivasa, S. Git re-basin:\nMerging models modulo permutation symmetries. In\nInternational Conference on Learning Representations,\n2023. URL https://openreview.net/forum?\n\nGao, L., Rajaram, A., Coxon, J., Govande, S. V., Baker,\nB., and Mossing, D. Weight-sparse transformers have\ninterpretable circuits. arXiv preprint arXiv:2511.13653,\n2025.\n8\n"
+    },
+    {
+      "page": 9,
+      "text": "Mechanistic Evidence for Preserved-but-Misaligned Representations in Non-IID FedAvg\n\nHanna, M., Pezzelle, S., and Belinkov, Y. Have faith in\nfaithfulness: Going beyond circuit overlap when finding\nmodel mechanisms. In Mechanistic Interpretability Workshop at ICML, 2024. URL https://openreview.\nnet/forum?id=grXgesr5dT.\n\nOh, J., Kim, S., and Yun, S.-Y. FedBABU: Toward enhanced representation for federated image classification.\nIn International Conference on Learning Representations,\n2022. URL https://openreview.net/forum?\nid=HuaYQfggn5u.\n\nHsieh, K., Phanishayee, A., Mutlu, O., and Gibbons, P. The\nnon-iid data quagmire of decentralized machine learning. In International Conference on Machine Learning\n(ICML), pp. 4387–4398. PMLR, 2020.\n\nOlah, C., Cammarata, N., Schubert, L., Goh, G., Petrov,\nM., and Carter, S. Zoom in: An introduction to circuits.\nDistill, 5(3):e00024–001, 2020.\nRaghu, M., Gilmer, J., Yosinski, J., and Sohl-Dickstein, J.\nSvcca: Singular vector canonical correlation analysis for\ndeep learning dynamics and interpretability. In Advances\nin Neural Information Processing Systems (NeurIPS),\nvolume 30, 2017.\n\nIlharco, G., Ribeiro, M. T., Wortsman, M., Schmidt, L.,\nHajishirzi, H., and Farhadi, A. Editing models with task\narithmetic. In International Conference on Learning\nRepresentations, 2023. URL https://openreview.\nnet/forum?id=6t0Kwf8-jrj.\n\nWang, J., Liu, Q., Liang, H., Joshi, G., and Poor, H. V.\nTackling the objective inconsistency problem in heterogeneous federated optimization. In Advances in Neural\nInformation Processing Systems (NeurIPS), volume 33,\npp. 7611–7623, 2020.\n\nKairouz, P., McMahan, H. B., Avent, B., Bellet, A., Bennis,\nM., Bhagoji, A. N., Bonawitz, K., Charles, Z., Cormode,\nG., Cummings, R., et al. Advances and open problems in\nfederated learning. Foundations and Trends® in Machine\nLearning, 14(1–2):1–210, 2021.\n\nWang, K., Variengien, A., Conmy, A., Shlegeris, B., and\nSteinhardt, J. Interpretability in the wild: a circuit for\nindirect object identification in GPT-2 small. In International Conference on Learning Representations (ICLR),\n2023.\n\nKarimireddy, S. P., Kale, S., Mohri, M., Reddi, S., Stich,\nS., and Suresh, A. T. SCAFFOLD: Stochastic controlled\naveraging for federated learning. In International Conference on Machine Learning (ICML), pp. 5132–5143.\nPMLR, 2020.\n\nWortsman, M., Ilharco, G., Gadre, S. Y., Roelofs, R.,\nGontijo-Lopes, R., Morcos, A. S., Namkoong, H.,\nFarhadi, A., Carmon, Y., Kornblith, S., and Schmidt, L.\nModel soups: Averaging weights of multiple fine-tuned\nmodels improves accuracy without increasing inference\ntime. In International Conference on Machine Learning, volume 162 of Proceedings of Machine Learning\nResearch, pp. 23965–23998. PMLR, 2022.\n\nLi, Q., He, B., and Song, D. Model-contrastive federated\nlearning. In Proceedings of the IEEE/CVF Conference\non Computer Vision and Pattern Recognition (CVPR), pp.\n10713–10722, 2021.\nLi, T., Sahu, A. K., Zaheer, M., Sanjabi, M., Talwalkar,\nA., and Smith, V. Federated optimization in heterogeneous networks. In Proceedings of Machine Learning\nand Systems (MLSys), volume 2, pp. 429–450, 2020.\n\nYadav, P., Tam, D., Choshen, L., Raffel, C. A., and\nBansal, M.\nTIES-merging: Resolving interference when merging models. In Advances in Neural Information Processing Systems, volume 36,\n2023. URL https://proceedings.neurips.\ncc/paper_files/paper/2023/hash/\n1644c9af28ab7916874f6fd6228a9bcf-Abstract-Conferen\nhtml.\n\nLi, X.-C. and Zhan, D.-C. FedRS: Federated learning with\nrestricted softmax for label distribution non-iid data. In\nProceedings of the 27th ACM SIGKDD Conference on\nKnowledge Discovery and Data Mining, pp. 995–1005,\n2021. doi: 10.1145/3447548.3467254.\n\nZhao, Y., Li, M., Lai, L., Suda, N., Civin, D., and Chandra,\nV. Federated learning with non-iid data. arXiv preprint\narXiv:1806.00582, 2018.\n\nMatena, M. S. and Raffel, C. A. Merging models with fisherweighted averaging. In Advances in Neural Information\nProcessing Systems, volume 35, 2022.\nMcMahan, H. B., Moore, E., Ramage, D., Hampson, S., and\nArcas, B. A. y. Communication-efficient learning of deep\nnetworks from decentralized data. In Proceedings of the\n20th International Conference on Artificial Intelligence\nand Statistics (AISTATS), volume 54 of Proceedings of\nMachine Learning Research, 2017.\n9\n"
+    },
+    {
+      "page": 10,
+      "text": "Mechanistic Evidence for Preserved-but-Misaligned Representations in Non-IID FedAvg\n"
+    }
+  ]
+}

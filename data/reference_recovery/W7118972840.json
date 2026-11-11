@@ -1,0 +1,32 @@
+{
+  "id": "W7118972840",
+  "title": "FedSCAM (Federated Sharpness-Aware Minimization with Clustered Aggregation and Modulation): Scam-resistant SAM for Robust Federated Optimization in Heterogeneous Environments",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2601.00853",
+      "result": "title_check_failed"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.00853",
+      "result": "title_check_failed"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.00853",
+      "result": "title_check_failed"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:13:16.184272+00:00",
+  "url": "https://arxiv.org/pdf/2601.00853",
+  "pdf_sha256": "95d6fa093956e93ef7c0808a17f3e56f4575f4122ffd028d78d475e0d2b6a863",
+  "source_identity": "printed_arxiv_id",
+  "extractor_version": 3,
+  "reference_start_page": 10,
+  "bibliography": [
+    {
+      "page": 10,
+      "text": "H. B. McMahan, E. Moore, D. Ramage, S. Hampson, and B. A. y\nArcas. Communication-efficient learning of deep networks from\ndecentralized data. In Proceedings of the 20th International\nConference on Artificial Intelligence and Statistics (AISTATS),\n2017.\nP. Foret, A. Kleiner, H. Mobahi, and B. Neyshabur. Sharpnessaware minimization for efficiently improving generalization. In\nInternational Conference on Learning Representations (ICLR),\n2021. arXiv:2010.01412.\nZ. Qu, X. Li, R. Duan, Y. Liu, B. Tang, and Z. Lu. Generalized federated learning via sharpness aware minimization. In\nProceedings of the 39th International Conference on Machine\nLearning (ICML), 2022. arXiv:2206.02618.\nZ. Fan, S. Hu, J. Yao, G. Niu, Y. Zhang, M. Sugiyama, and Y. Wang.\nLocally estimated global perturbations are better than local perturbations for federated sharpness-aware minimization. arXiv\npreprint arXiv:2405.18890, 2024.\nT. Li, Y. Huang, L. Jiang, C. Liu, Q. Xie, W. Du, L. Wang, and\nK. Wu. A fast and flat federated learning method via weighted\nmomentum and sharpness-aware minimization. arXiv preprint\narXiv:2511.22080, 2025.\n\n10\n"
+    }
+  ]
+}

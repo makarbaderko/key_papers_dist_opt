@@ -1,0 +1,24 @@
+{
+  "id": "W4386828197",
+  "title": "Federated Averaging Algorithm: An Analysis of Distributed Machine Learning",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://engrxiv.org/preprint/download/3233/5864/4645",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:10:32.741970+00:00",
+  "extractor_version": 3,
+  "url": "https://engrxiv.org/preprint/download/3233/5864/4645",
+  "pdf_sha256": "9de7fa8ebd97716c1eaef187c8722ec7f53ff6aa2da3bfd9705dadb84967a336",
+  "page_count": 3,
+  "reference_start_page": 3,
+  "bibliography": [
+    {
+      "page": 3,
+      "text": "1.Abadi, M., Chu, A., Goodfellow, I., McMahan, H. B., Mironov, I., Talwar, K., & Zhang, L. (2016).\nDeep Learning with Differential Privacy. In _Proceedings of the 2016 ACM SIGSAC Conference\non Computer and Communications Security_ (pp. 308–318).\n2.Brisimi, T. S., Chen, R., Mela, T., Olshevsky, A., Paschalidis, I. C., & Shi, W. (2018). Federated\nlearning of predictive models from federated Electronic Health Records. _International journal of\nmedical informatics_, 112, 59-67.\n3.Leroy, D., Verleysen, M., & Wang, Y. (2019). Cooperative learning in wireless sensor\nnetworks. _IEEE Signal Processing Magazine_, 37(1), 23-31.\n4.McMahan, H. B., Moore, E., Ramage, D., Hampson, S., & y Arcas, B. A. (2017).\nCommunication-Efficient Learning of Deep Networks from Decentralized Data. In _Proceedings\nof the 20th International Conference on Artificial Intelligence and Statistics_ (pp. 1273–1282).\n5.Zhao, Y., Li, M., Lai, L., Suda, N., Civin, D., & Chandra, V. (2018). Federated Learning with\nNon-IID Data. _arXiv preprint arXiv:1806.00582_.\n"
+    }
+  ]
+}

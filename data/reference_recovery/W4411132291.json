@@ -1,0 +1,28 @@
+{
+  "id": "W4411132291",
+  "title": "A Study of Efficient Optimizer Configuration Strategies in Federated Learning for FedAvg and FedProx",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.ewadirect.com/proceedings/ace/article/view/23589/pdf",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:13:00.616255+00:00",
+  "extractor_version": 3,
+  "url": "https://ace.ewapub.com/article/view/23589.pdf",
+  "pdf_sha256": "a6e859c385e3d2ca9bf5144bd03618bfd685efb4932c54fc67957be26e692900",
+  "page_count": 8,
+  "reference_start_page": 7,
+  "bibliography": [
+    {
+      "page": 7,
+      "text": "[1] Kaleem, S., Babar, M., Qureshi, B. (2025). Comparative Analysis of Federated Learning Techniques in Big DataDriven Intelligent Transportation Systems. In International Conference on Data Science and Machine Learning\nApplications, 126-13.\n[2] Tham, C. K., Yang, L., Khanna, A. (2023). Federated learning for anomaly detection in vehicular networks. In IEEE\nVehicular Technology Conference, 1-6.\n[3] Zahri, S., Bennouri, H., Chehri, A. (2023). Federated learning for iot networks: Enhancing efficiency and privacy.\nIn IEEE World Forum on Internet of Things, 1-6.\n[4] Maron, C., Fresse, V., & Ohayon, A. (2024). Synthetic Monoclass Teachers Distillation in the Edge Using Federated\nLearning Approach. In International Conference on Federated Learning Technologies and Applications, 136-140.\n[5] Dandani, S., & Yaghmaee, M. H. (2024). Improving Model Accuracy in Federated Learning with Mish Activation\nFunction and the FedAvg-RAdam Optimization Algorithm. In International Conference on Smart Cities, Internet of\nThings and Applications, 37-42.\n\n174\n"
+    },
+    {
+      "page": 8,
+      "text": "Proceedings of CONF-SEML 2025 Symposium: Machine Learning Theory and Applications\nDOI: 10.54254/2755-2721/2025.TJ23589\n\n[6] Prasher, S., Nelson, L., & Jagdish, M. (2023). Potato leaf disease prediction using RMSProp, Adam and SGD\noptimizers. In International Conference on Advancement in Computation & Computer Technologies, 343-347.\n[7] Ghosh, A., & Krishnamoorthy, P. (2024). FedADC: Federated Average Knowledge Distilled Mutual Conditional\nLearning (FedADC) for Waste Classification. IEEE Access.\n[8] Abou El Houda, Z., Nabousli, D., & Kaddoum, G. (2022). Cost-efficient federated reinforcement learning-based\nnetwork routing for wireless networks. In 2022 IEEE Future Networks World Forum, 243-248.\n[9] Barhoush, M., Ayad, A., & Schmeink, A. (2023). Accelerating federated learning via modified local model update\nbased on individual performance metric. In International Conference on Electrical, Computer, Communications\nand Mechatronics Engineering, 1-6.\n[10] Seelwal, P., & Sharma, A. (2022). Automatic detection of rice diseases using deep convolutional neural networks\nwith sgd and adam. In International Conference on Advances in Computing, Communication Control and\nNetworking, 1256-1260.\n[11] Kurniadi, D., Mulyani, A., & Suwandy, M. R. R. (2024). Eye Disease Detection Model Using Convolutional Neural\nNetwork with RMSprop, SGD, and Adam Optimizers. In 2024 International Conference on ICT for Smart Society,\n1-6.\n\n175\n"
+    }
+  ]
+}

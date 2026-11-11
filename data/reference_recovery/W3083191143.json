@@ -1,0 +1,32 @@
+{
+  "id": "W3083191143",
+  "title": "HLSGD Hierarchical Local SGD With Stale Gradients Featuring.",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2009.02701",
+      "result": "title_check_failed"
+    },
+    {
+      "url": "http://dblp.uni-trier.de/db/journals/corr/corr2009.html#abs-2009-02701",
+      "result": "no accessible PDF or citation_pdf_url"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:12:17.238047+00:00",
+  "url": "https://arxiv.org/pdf/2009.02701",
+  "pdf_sha256": "bfed9f3a66f2a0114df71398e50ad3ab4c9a9927cd08b5c2f82f4fe7264625ec",
+  "source_identity": "printed_arxiv_id",
+  "extractor_version": 3,
+  "reference_start_page": 11,
+  "bibliography": [
+    {
+      "page": 11,
+      "text": "1. Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk,\nH., Bengio, Y.: Learning phrase representations using rnn encoder-decoder for\nstatistical machine translation. arXiv preprint arXiv:1406.1078 (2014)\n2. Dean, J., Corrado, G.S., Monga, R., Kai, C., Ng, A.Y.: Large scale distributed deep\nnetworks. Advances in Neural Information Processing Systems (2012)\n3. Haddadpour, F., Kamani, M.M., Mahdavi, M., Cadambe, V.: Local sgd with\nperiodic averaging: Tighter analysis and adaptive synchronization. In: Advances in\nNeural Information Processing Systems. pp. 11080–11092 (2019)\n4. He, K., Zhang, X., Ren, S., Sun, J.: Deep residual learning for image recognition.\nIn: Proceedings of the IEEE conference on computer vision and pattern recognition.\npp. 770–778 (2016)\n5. Hoffer, E., Hubara, I., Soudry, D.: Train longer, generalize better: closing the\ngeneralization gap in large batch training of neural networks. In: Advances in\nNeural Information Processing Systems. pp. 1731–1741 (2017)\n"
+    },
+    {
+      "page": 12,
+      "text": "12\n\nZhou et al.\n\n6. Huang, G., Liu, Z., Weinberger, K., van der Maaten, L.: Densely connected convolutional networks. arxiv 2017. arXiv preprint arXiv:1608.06993\n7. Jia, X., Song, S., He, W., Wang, Y., Rong, H., Zhou, F., Xie, L., Guo, Z., Yang, Y.,\nYu, L., et al.: Highly scalable deep learning training system with mixed-precision:\nTraining imagenet in four minutes. arXiv preprint arXiv:1807.11205 (2018)\n8. Karimireddy, S.P., Rebjock, Q., Stich, S.U., Jaggi, M.: Error feedback fixes signsgd\nand other gradient compression schemes. arXiv preprint arXiv:1901.09847 (2019)\n9. Krizhevsky, A., Hinton, G., et al.: Learning multiple layers of features from tiny\nimages (2009)\n10. Li, M., Andersen, D.G., Park, J.W., Smola, A.J., Ahmed, A., Josifovski, V., Long,\nJ., Shekita, E.J., Su, B.Y.: Scaling distributed machine learning with the parameter server. In: 11th {USENIX} Symposium on Operating Systems Design and\nImplementation ({OSDI} 14). pp. 583–598 (2014)\n11. Li, M., Andersen, D.G., Smola, A.J., Yu, K.: Communication efficient distributed\nmachine learning with the parameter server. In: Advances in Neural Information\nProcessing Systems. pp. 19–27 (2014)\n12. Lian, X., Zhang, C., Zhang, H., Hsieh, C.J., Zhang, W., Liu, J.: Can decentralized\nalgorithms outperform centralized algorithms? a case study for decentralized parallel\nstochastic gradient descent. In: Advances in Neural Information Processing Systems.\npp. 5330–5340 (2017)\n13. Lin, Y., Han, S., Mao, H., Wang, Y., Dally, W.J.: Deep gradient compression:\nReducing the communication bandwidth for distributed training. arXiv preprint\narXiv:1712.01887 (2017)\n14. Ouyang, S., Dong, D., Xu, Y., Xiao, L.: Communication Optimization Strategies\nfor Distributed Deep Learning: A Survey. arXiv e-prints arXiv:2003.03009 (Mar\n2020)\n15. Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., Chen, L.C.: Mobilenetv2: Inverted\nresiduals and linear bottlenecks. In: Proceedings of the IEEE conference on computer\nvision and pattern recognition. pp. 4510–4520 (2018)\n16. Stich, S.U.: Local sgd converges fast and communicates little. arXiv preprint\narXiv:1805.09767 (2018)\n17. Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., Erhan, D.,\nVanhoucke, V., Rabinovich, A.: Going deeper with convolutions. In: Proceedings of\nthe IEEE conference on computer vision and pattern recognition. pp. 1–9 (2015)\n18. Haddadpour, F., Kamani, M.M., Mahdavi, M., Cadambe, V.: Trading redundancy\nfor communication: Speeding up distributed sgd for non-convex optimization. In:\nInternational Conference on Machine Learning. pp. 2545–2554 (2019)\n19. Xu, H., Ho, C.Y., Abdelmoniem, A.M., Dutta, A., Bergou, E.H., Karatsenidis, K.,\nCanini, M., Kalnis, P.: Compressed communication for distributed deep learning:\nSurvey and quantitative evaluation. Tech. rep. (2020)\n20. Yu, H., Yang, S., Zhu, S.: Parallel restarted sgd with faster convergence and less\ncommunication: Demystifying why model averaging works for deep learning. In:\nProceedings of the AAAI Conference on Artificial Intelligence. vol. 33, pp. 5693–5700\n(2019)\n21. Yu, M., Lin, Z., Narra, K., Li, S., Li, Y., Kim, N.S., Schwing, A., Annavaram,\nM., Avestimehr, S.: Gradiveq: Vector quantization for bandwidth-efficient gradient aggregation in distributed cnn training. In: Advances in Neural Information\nProcessing Systems. pp. 5123–5133 (2018)\n22. Zhang, W., Gupta, S., Lian, X., Liu, J.: Staleness-aware async-sgd for distributed\ndeep learning. arXiv preprint arXiv:1511.05950 (2015)\n"
+    }
+  ]
+}

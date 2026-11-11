@@ -1,0 +1,18 @@
+{
+  "corpus": 337,
+  "sources_attempted": 337,
+  "source_status": {
+    "bibliography_extracted": 168,
+    "unavailable": 169
+  },
+  "no_indexed_refs_attempted": 21,
+  "no_indexed_refs_extracted": 13,
+  "evidence_pairs": 1225,
+  "accepted_pairs": 1176,
+  "new_edges": 494,
+  "accepted_new_citing_papers": 98,
+  "excluded_status": {
+    "date_anomaly_excluded": 44,
+    "title_fragment_excluded": 5
+  }
+}

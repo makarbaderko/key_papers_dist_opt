@@ -1,0 +1,24 @@
+{
+  "id": "W7206076352",
+  "title": "Regularizing gradient reconstruction attacks in federated averaging",
+  "no_indexed_refs": true,
+  "attempts": [
+    {
+      "url": "https://hal.science/cea-05250919/document",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:01:01.524325+00:00",
+  "extractor_version": 3,
+  "url": "https://cea.hal.science/cea-05250919/document",
+  "pdf_sha256": "21f81f51f37432db10b0e73b9a4e819d1432009c2c19a8e303735df57987998d",
+  "page_count": 5,
+  "reference_start_page": 5,
+  "bibliography": [
+    {
+      "page": 5,
+      "text": "[1] Dimitar Iliev Dimitrov, Mislav Balunovic, Nikola Konstantinov, and Martin Vechev. Data leakage in federated\naveraging. Transactions on Machine Learning Research,\n2022.\n[2] Peter Kairouz et al. Advances and Open Problems in\nFederated Learning, March 2021. arXiv:1912.04977 [cs,\nstat].\n[3] Jonas Geiping, Hartmut Bauermeister, Hannah Dröge,\nand Michael Moeller. Inverting Gradients – How easy\nis it to break privacy in federated learning?, September\n2020. arXiv:2003.14053 [cs].\n[4] Jiahui Geng, Yongli Mou, Feifei Li, Qing Li, Oya Beyan,\nStefan Decker, and Chunming Rong. Towards General Deep Leakage in Federated Learning, January 2022.\narXiv:2110.09074 [cs].\n[5] Pierre Jobic, Aurélien Mayoue, Sara Tucci-Piergiovanni,\nand François Terrier. Extending the scope of gradient\nreconstruction attacks in federated averaging. In Proceedings of the 2024 ACM Workshop on Information Hiding\nand Multimedia Security, IHMMSec ’24, page 235–246,\nNew York, NY, USA, 2024. Association for Computing\nMachinery.\n[6] Alex Krizhevsky. Learning multiple layers of features\nfrom tiny images. pages 32–33, 2009.\n[7] Yann LeCun and Corinna Cortes. MNIST handwritten\ndigit database. 2010.\n[8] Bowen Li, Hanlin Gu, Ruoxin Chen, Jie Li, Chentao\nWu, Na Ruan, Xueming Si, and Lixin Fan. Temporal\nGradient Inversion Attacks with Robust Optimization,\nJune 2023. arXiv:2306.07883 [cs].\n[9] H. Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, and Blaise Agüera y Arcas.\nCommunication-Efficient Learning of Deep Networks\nfrom Decentralized Data, February 2017.\n[10] Jin Xu, Chi Hong, Jiyue Huang, Lydia Y. Chen, and\nJérémie Decouchant. Agic: Approximate gradient inversion attack on federated learning, 2022.\n[11] Hongxu Yin Hongxu, Arun Mallya, Arash Vahdat,\nJose M. Alvarez, Jan Kautz, and Pavlo Molchanov. See\nthrough Gradients: Image Batch Recovery via GradInversion, April 2021. arXiv:2104.07586 [cs].\n[12] Ligeng Zhu, Zhijian Liu, and Song Han. Deep Leakage\nfrom Gradients, December 2019. arXiv:1906.08935 [cs,\nstat].\n\nFigure 2 – PSNR of the reconstructed images coming from\nthe attacks in function of the client’s DS for different models\nand datasets. The blue, orange lines are FedAvg, FedAvgEpoch simulation respectively. The solid, dashed lines are\nwith or without our regularization respectively. Thus the orange dashed line is [1]’s attack. The client’s FedAvg HP are a\nmini-batch size of 4, 5 epochs and a learning rate of 4 · 10−3 .\nOn the number of local epochs (ϵ) and the mini batch size\n(β) On Tab.2, the comparison between [1]’s attack and ours\n(i.e. the same with the regularization Line) for different ϵ\nand β is provided. Our attack is always better than [1] which\nproves the effectiveness of our regularization. In addition, at a\nfixed number of epochs (and dataset size), our regularization is\nmore effective when the batch size is higher (1.32dB). Looking\nat the four last rows of the Tab.2, it seems that our attack is\nmore effective when the number of local epoch is higher (improvement of 1.39dB vs. 0.85dB). Indeed, our regularization\nmight restrict the optimization’s freedom of the dummy sets\n(Xe , Ye )e∈J1,ϵK such that the intermediate parameters θ̃eU are\nclose to the line θϵU − θ11\n\n5\n\nConclusion\n\nFedAvg is harder to attack than FedSGD but is a more\nrealistic scenario. The work of [1] proposes an effective attack\nagainst FedAvg. In this paper, we add a regularization to their\n4\n"
+    }
+  ]
+}

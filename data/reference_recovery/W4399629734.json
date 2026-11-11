@@ -1,0 +1,32 @@
+{
+  "id": "W4399629734",
+  "title": "Advancing Healthcare Iot Security: Federated Learning and the Fedavg Approach",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "http://dx.doi.org/10.21203/rs.3.rs-4471086/v1",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:12:51.537192+00:00",
+  "extractor_version": 3,
+  "url": "https://assets-eu.researchsquare.com/files/rs-4471086/v1_covered_65988b52-6657-4339-ac60-15d588d66bda.pdf?c=1718286046",
+  "pdf_sha256": "c231859091de1bf38a537fb2db195a37649e4a23cdd0090ff1d27e074bb7b1d0",
+  "page_count": 27,
+  "reference_start_page": 25,
+  "bibliography": [
+    {
+      "page": 25,
+      "text": "Agrawal, S., Sarkar, S., Aouedi, O., Yenduri, G., Piamrat, K., Alazab, M., ... &\nGadekallu, T. R. (2022). Federated learning for intrusion detection system:\nConcepts, challenges and future directions. Computer Communications, 195,\n346-361.\nAlmulla S, &amp; Fachkha C, Bou-Harb E (2022)\nBhavsar, M., Roy, K., Kelly, J., & Olusola, O. (2023). Anomaly-based intrusion\ndetection system for IoT application. Discover Internet of Things, 3(1), 5.\nBonawitz Bonawitz, K., Kairouz, P., McMahan, B., & Ramage, D. (2021). Federated\nlearning and privacy: Building privacy-preserving systems for machine learning\nand data science on decentralized data. Queue, 19(5), 87-114.\nBonawitz, K., Kairouz, P., Mcmahan, B., & Ramage, D. (2022). Federated learning\nand privacy. Communications of the ACM, 65(4), 90-97.\nCampos EM, Saura PF, González-Vidal A, et al (2022) Evaluating Federated Learning\nfor intrusion detection in Internet of Things: Review and challenges. Computer\nNetworks 203\nCao, X., & Gong, N. Z. (2022). Mpaf: Model poisoning attacks to federated learning\nbased on fake clients. In Proceedings of the IEEE/CVF Conference on Computer\nVision and Pattern Recognition (pp. 3396-3404)..\nChen Z, Fong K, Chong E, et al (2021a)\nChen Z, Fong K, Chong E, et al (2021b) URL https://doi.org/10.48550/arXiv.2108.\n0576\nFriha O, Ferrag MA, Shu L, et al (2022) FELIDS: Federated learning-based intrusion detection system for agricultural Internet of Things. Journal of Parallel and\nDistributed Computing 165:17–31\nGoel S, Guleria K, Panda SN (????) Anomaly based Intrusion Detection Model using\nSupervised Machine Learning Techniques. In: 2022 10th International Conference on\nReliability, Infocom Technologies and Optimization (Trends and Future Directions)\n(ICRITO), pp 1–5\nHamouda D, Ferrag MA, Benhamida N, et al (2023) PPSS: A privacy-preserving\nsecure framework using blockchain-enabled federated deep learning for Industrial\nIoTs. Pervasive and Mobile Computing 88\nHussain, F., Abbas, S. G., Shah, G. A., Pires, I. M., Fayyaz, U. U., Shahzad, F., ... &\nZdravevski, E. (2021). A framework for malicious traffic detection in IoT\nhealthcare environment. Sensors, 21(9), 3025.\nIslam M, Aktheruzzaman K (2020) An Analysis of Cybersecurity Attacks against\nInternet of Things and Security Solutions. Journal of Computer and\nCommunications 8\n\n24\n"
+    },
+    {
+      "page": 26,
+      "text": "Khraisat A, Gondal I, Vamplew P, et al (2020) URL https://doi.org/10.3390/\nelectronics9010173\nKumar S, Gupta S, Arora S (2021) Research trends in network-based intrusion\ndetection systems: A review. IEEE Access 9:157761–157779\nHossain, M. A., & Islam, M. S. (2023). Ensuring network security with a robust\nintrusion detection system using ensemble-based machine learning. Array, 19,\n100306.\nMan, D., Zeng, F., Yang, W., Yu, M., Lv, J., & Wang, Y. (2021). Intelligent intrusion\ndetection based on federated learning for edge-assisted internet of\nthings. Security and Communication Networks, 2021, 1-11.\nEnsuring network security with a robust intrusion detection system using\nensemble-based machine learning. Array, 19, 100306.\nZeng F, Yang W, et al (2021)\nMd, Hossain M, Islam (2023) URL https://doi.org/10.1016/j.array.2023.100306\nRashid, M. M., Khan, S. U., Eusufzai, F., Redwan, M. A., Sabuj, S. R., & Elsharief, M.\n(2023). A federated learning-based approach for improving intrusion detection in\nindustrial internet of things networks. Network, 3(1), 158-179.\nElmaghraby, R. T., Aziem, N. M. A., Sobh, M. A., & Bahaa-Eldin, A. M. (2024).\nEncrypted network traffic classification based on machine learning. Ain Shams\nEngineering Journal, 15(2), 102361.\nRuzafa-Alcázar, P., Fernández-Saura, P., Mármol-Campos, E., González-Vidal, A.,\nHernández-Ramos, J. L., Bernal-Bernabe, J., & Skarmeta, A. F. (2021). Intrusion\ndetection based on privacy-preserving federated learning for the industrial\nIoT. IEEE Transactions on Industrial Informatics, 19(2), 1145-1154.\nVadigi, S., Sethi, K., Mohanty, D., Das, S. P., & Bera, P. (2023). Federated\nreinforcement learning based intrusion detection system using dynamic attention\nmechanism. Journal of Information Security and Applications, 78, 103608.\nKhan, A. A., Driss, M., Boulila, W., Sampedro, G. A., Abbas, S., & Wechtaisong, C.\n(2023). Privacy Preserved and Decentralized Smartphone Recommendation\nSystem. IEEE Transactions on Consumer Electronics.\nIrmawan, F. N., Muliawan, N. H., Angky, E. V., Setiawan, K. E., & Hasani, M. F.\n(2023, November). Comparison of Machine Learning Algorithms for Diabetes\nClassification. In 2023 IEEE 9th International Conference on Computing,\nEngineering and Design (ICCED) (pp. 1-6). IEEE.\nZaabar, B., Cheikhrouhou, O., & Abid, M. (2022, November). Intrusion detection\nsystem for IoMT through blockchain-based federated learning. In 2022 15th\nInternational Conference on Security of Information and Networks (SIN) (pp.\n01-08). IEEE.\nSupplementary File-MDPI. (2022, May 13). Supplementary File-MDPI.\n"
+    },
+    {
+      "page": 27,
+      "text": "25\n"
+    }
+  ]
+}

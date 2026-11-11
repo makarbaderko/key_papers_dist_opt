@@ -1,0 +1,27 @@
+{
+  "id": "W3019609389",
+  "title": "Federated learning with hierarchical clustering of local updates to improve training on non-IID data",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://eprints.keele.ac.uk/8855/1/IJCNN-FL%2BHC-paper-final.pdf",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:05:08.219908+00:00",
+  "url": "https://arxiv.org/pdf/2004.11791",
+  "pdf_sha256": "4ce955bfc79cb565ee23a969cd4f434d5f50c56376ad459c4bf635076e84b62a",
+  "extractor_version": 3,
+  "reference_start_page": 8,
+  "bibliography": [
+    {
+      "page": 8,
+      "text": "[1] P. Kairouz, H. B. McMahan, B. Avent, A. Bellet, M. Bennis,\nA. Nitin Bhagoji, K. Bonawitz, Z. Charles, G. Cormode, R. Cummings,\nR. G. L. D’Oliveira, S. El Rouayheb, D. Evans, J. Gardner, Z. Garrett,\nA. Gascón, B. Ghazi, P. B. Gibbons, M. Gruteser, Z. Harchaoui, C. He,\nL. He, Z. Huo, B. Hutchinson, J. Hsu, M. Jaggi, T. Javidi, G. Joshi,\nM. Khodak, J. Konečný, A. Korolova, F. Koushanfar, S. Koyejo,\nT. Lepoint, Y. Liu, P. Mittal, M. Mohri, R. Nock, A. Özgür, R. Pagh,\nM. Raykova, H. Qi, D. Ramage, R. Raskar, D. Song, W. Song, S. U.\nStich, Z. Sun, A. Theertha Suresh, F. Tramèr, P. Vepakomma, J. Wang,\nL. Xiong, Z. Xu, Q. Yang, F. X. Yu, H. Yu, and S. Zhao, “Advances and\nOpen Problems in Federated Learning,” arXiv.org, p. arXiv:1912.04977,\nDec. 2019.\n[2] Q. Yang, Y. Liu, T. Chen, and Y. Tong, “Federated Machine Learning:\nConcept and Applications,” ACM Transactions on Intelligent Systems\nand Technology TIST, vol. 10, no. 2, pp. 1–19, Jan. 2019.\n[3] T. Li, A. K. Sahu, A. Talwalkar, and V. Smith, “Federated Learning: Challenges, Methods, and Future Directions,” arXiv.org, p.\narXiv:1908.07873, Aug. 2019.\n[4] B. McMahan, E. Moore, D. Ramage, S. Hampson, and B. A. y Arcas,\n“Communication-Efficient Learning of Deep Networks from Decentralized Data,” in Artificial Intelligence and Statistics, 2017, pp. 1273–1282.\n[5] F. Sattler, K.-R. Müller, and W. Samek, “Clustered Federated Learning:\nModel-Agnostic Distributed Multi-Task Optimization under Privacy\nConstraints,” arXiv.org, p. arXiv:1910.01991, Oct. 2019.\n"
+    },
+    {
+      "page": 9,
+      "text": "[6] M. Ester, H. P. Kriegel, J. Sander, X. X. Kdd, and 1996, “A densitybased algorithm for discovering clusters in large spatial databases with\nnoise.” in International Conference on Knowledge Discovery and Data\nMining, 1996.\n[7] T. Hastie, R. Tibshirani, and J. Friedman, The Elements of Statistical\nLearning, 2nd ed., ser. Springer Series in Statistics. New York: Springer\nNew York, 2009.\n[8] R. McDonald, K. Hall, and G. Mann, “Distributed training strategies for\nthe structured perceptron,” in NAACL HLT, 2014.\n[9] D. Povey, X. Zhang, and S. Khudanpur, “Parallel training of DNNs with\nNatural Gradient and Parameter Averaging,” in ICLR Workshop Track,\n2015.\n[10] K. Hsieh, A. Phanishayee, O. Mutlu, and P. B. Gibbons, “The NonIID Data Quagmire of Decentralized Machine Learning,” arXiv.org, p.\narXiv:1910.00189, Oct. 2019.\n[11] Y. Zhao, M. Li, L. Lai, N. Suda, D. Civin, and V. Chandra, “Federated\nLearning with Non-IID Data,” arXiv.org, p. arXiv:1806.00582, Jun.\n2018.\n[12] T. Li, A. K. Sahu, M. Zaheer, M. Sanjabi, A. Talwalkar, and V. Smith,\n“Federated Optimization for Heterogeneous Networks,” arXiv.org, p.\narXiv:1812.06127, Dec. 2018.\n[13] H. Eichner, T. Koren, H. B. McMahan, N. Srebro, and K. Talwar, “SemiCyclic Stochastic Gradient Descent,” in International Conference on\nMachine Learning, Apr. 2019, p. arXiv:1904.10120.\n[14] Y. Zhang and Q. Yang, “A Survey on Multi-Task Learning,” arXiv.org,\np. arXiv:1707.08114, Jul. 2017.\n[15] S. Liu, S. J. Pan, and Q. Ho, “Distributed Multi-Task Relationship\nLearning,” in the 23rd ACM SIGKDD International Conference. New\nYork, New York, USA: ACM Press, 2017, pp. 937–946.\n[16] J. Wang, M. Kolar, and N. Srebro, “Distributed multi-task learning,” in\nConference on Artificial Intelligence and Statistics, 2016.\n[17] V. Smith, C.-K. Chiang, M. Sanjabi, and A. Talwalkar, “Federated MultiTask Learning,” in Advances in neural information processing systems,\nMay 2017, p. arXiv:1705.10467.\n[18] A. Ghosh, J. Hong, D. Yin, and K. Ramchandran, “Robust Federated Learning in a Heterogeneous Environment,” arXiv.org, p.\narXiv:1906.06629, Jun. 2019.\n[19] Y. Lecun, L. Bottou, Y. Bengio, and P. Haffner, “Gradient-based learning\napplied to document recognition,” Proceedings of the IEEE, vol. 86,\nno. 11, pp. 2278–2324, 1998.\n[20] S. Caldas, P. Wu, T. Li, J. Konečný, H. B. McMahan, V. Smith,\nand A. Talwalkar, “LEAF: A Benchmark for Federated Settings,” in\nWorkshop on Federated Learning for Data Privacy and Confidentiality,\n2019.\n[21] C. C. Aggarwal, A. Hinneburg, and D. A. Keim, “On the surprising\nbehavior of distance metrics in high dimensional space,” Database\nTheory - Icdt 2001, Proceedings, vol. 1973, pp. 420–434, 2001.\n"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "W4395009965",
+  "title": "Edge Federated Optimization for Heterogeneous Data",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.mdpi.com/1999-5903/16/4/142/pdf?version=1713770902",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.3390/fi16040142",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:09:05.485552+00:00"
+}

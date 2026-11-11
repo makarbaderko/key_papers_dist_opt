@@ -1,0 +1,28 @@
+{
+  "id": "W3176174985",
+  "title": "On the Convergence of Communication-Efficient Local SGD for Federated Learning",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://doi.org/10.1609/aaai.v35i9.16920",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:08:54.225047+00:00",
+  "extractor_version": 3,
+  "url": "https://ojs.aaai.org/index.php/AAAI/article/download/16920/16727",
+  "pdf_sha256": "138cea443daf68e7926cd54ef93c8de1299c2a685b1435036a910e45872bd8fe",
+  "page_count": 9,
+  "reference_start_page": 8,
+  "bibliography": [
+    {
+      "page": 8,
+      "text": "\nReisizadeh, A.; Mokhtari, A.; Hassani, H.; Jadbabaie, A.;\nand Pedarsani, R. 2020. Fedpaq: A communication-efficient\nfederated learning method with periodic averaging and\nquantization. In International Conference on Artificial Intelligence and Statistics, 2021–2031.\n\nAji, A. F.; and Heafield, K. 2017. Sparse communication for distributed gradient descent. arXiv preprint\narXiv:1704.05021 .\nAlistarh, D.; Grubic, D.; Li, J.; Tomioka, R.; and Vojnovic,\nM. 2017. QSGD: Communication-efficient SGD via gradient quantization and encoding. In Advances in Neural Information Processing Systems, 1709–1720.\n\nRussakovsky, O.; Deng, J.; Su, H.; Krause, J.; Satheesh, S.;\nMa, S.; Huang, Z.; Karpathy, A.; Khosla, A.; Bernstein, M.;\nBerg, A. C.; and Fei-Fei, L. 2015. ImageNet Large Scale Visual Recognition Challenge. International Journal of Computer Vision (IJCV) 115(3): 211–252. doi:10.1007/s11263015-0816-y.\n\nBasu, D.; Data, D.; Karakus, C.; and Diggavi, S. 2019.\nQsparse-local-SGD: Distributed SGD with Quantization,\nSparsification and Local Computations. In Advances in Neural Information Processing Systems, 14668–14679.\n\nSeide, F.; Fu, H.; Droppo, J.; Li, G.; and Yu, D. 2014. 1bit stochastic gradient descent and its application to dataparallel distributed training of speech dnns. In Fifteenth Annual Conference of the International Speech Communication Association.\n\nBernstein, J.; Wang, Y.-X.; Azizzadenesheli, K.; and Anandkumar, A. 2018. signSGD: Compressed optimisation for\nnon-convex problems. arXiv preprint arXiv:1802.04434 .\nHaddadpour, F.; Kamani, M. M.; Mahdavi, M.; and\nCadambe, V. 2019. Local SGD with periodic averaging:\nTighter analysis and adaptive synchronization. In Advances\nin Neural Information Processing Systems, 11080–11092.\n\nStich, S. U.; Cordonnier, J.-B.; and Jaggi, M. 2018. Sparsified SGD with memory. In Advances in Neural Information\nProcessing Systems, 4447–4458.\n\nHe, C.; Li, S.; So, J.; Zhang, M.; Wang, H.; Wang, X.;\nVepakomma, P.; Singh, A.; Qiu, H.; Shen, L.; et al. 2020.\nFedml: A research library and benchmark for federated machine learning. arXiv preprint arXiv:2007.13518 .\n\nStich, S. U.; and Karimireddy, S. P. 2019. The errorfeedback framework: Better rates for SGD with delayed\ngradients and compressed communication. arXiv preprint\narXiv:1909.05350 .\n\nHe, K.; Zhang, X.; Ren, S.; and Sun, J. 2016. Deep residual learning for image recognition. In Proceedings of the\nIEEE conference on computer vision and pattern recognition, 770–778.\n\nStrom, N. 2015. Scalable distributed DNN training using\ncommodity GPU cloud computing. In Sixteenth Annual\nConference of the International Speech Communication Association.\n\nJiang, P.; and Agrawal, G. 2018. A linear speedup analysis\nof distributed deep learning with sparse and quantized communication. In Advances in Neural Information Processing\nSystems, 2525–2536.\n\nTang, H.; Lian, X.; Zhang, T.; and Liu, J. 2019. Doublesqueeze: Parallel stochastic gradient descent with doublepass error-compensated compression.\narXiv preprint\narXiv:1905.05957 .\n\nKarimireddy, S. P.; Rebjock, Q.; Stich, S. U.; and Jaggi, M.\n2019. Error feedback fixes signsgd and other gradient compression schemes. arXiv preprint arXiv:1901.09847 .\n\nWang, J.; and Joshi, G. 2018. Cooperative SGD: A unified\nframework for the design and analysis of communicationefficient SGD algorithms. arXiv preprint arXiv:1808.07576\n.\n\nKhaled, A.; Mishchenko, K.; and Richtárik, P. 2019. First\nanalysis of local gd on heterogeneous data. arXiv preprint\narXiv:1909.04715 .\n\nWen, W.; Xu, C.; Yan, F.; Wu, C.; Wang, Y.; Chen, Y.; and\nLi, H. 2017. Terngrad: Ternary gradients to reduce communication in distributed deep learning. In Advances in neural\ninformation processing systems, 1509–1519.\n\nKrizhevsky, A.; Hinton, G.; et al. 2009. Learning multiple\nlayers of features from tiny images. Technical report, Citeseer.\n\nYu, H.; Jin, R.; and Yang, S. 2019.\nOn the linear\nspeedup analysis of communication efficient momentum sgd\nfor distributed non-convex optimization. arXiv preprint\narXiv:1905.03817 .\n\nLiang, X.; Shen, S.; Liu, J.; Pan, Z.; Chen, E.; and Cheng,\nY. 2019. Variance Reduced Local SGD with Lower Communication Complexity. arXiv preprint arXiv:1912.12844\n.\n\nYu, H.; Yang, S.; and Zhu, S. 2019. Parallel restarted SGD\nwith faster convergence and less communication: Demystifying why model averaging works for deep learning. In Proceedings of the AAAI Conference on Artificial Intelligence,\nvolume 33, 5693–5700.\n\nLin, Y.; Han, S.; Mao, H.; Wang, Y.; and Dally, W. J.\n2017. Deep gradient compression: Reducing the communication bandwidth for distributed training. arXiv preprint\narXiv:1712.01887 .\n7517\n"
+    },
+    {
+      "page": 9,
+      "text": "Zheng, S.; Huang, Z.; and Kwok, J. 2019. Communicationefficient distributed blockwise momentum SGD with errorfeedback. In Advances in Neural Information Processing\nSystems, 11450–11460.\n\n7518\n"
+    }
+  ]
+}

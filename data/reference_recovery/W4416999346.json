@@ -1,0 +1,17 @@
+{
+  "id": "W4416999346",
+  "title": "Communication-Efficient Federated Optimization with Gradient Clipping and Attention Aggregation for Data Analytics and Prediction",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.mdpi.com/2079-9292/14/23/4778/pdf?version=1764858240",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.3390/electronics14234778",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:13:15.257312+00:00"
+}

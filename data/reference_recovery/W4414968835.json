@@ -1,0 +1,32 @@
+{
+  "id": "W4414968835",
+  "title": "Distributed Low-Communication Training with Decoupled Momentum Optimization",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2510.03371",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:13:04.942233+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/2510.03371",
+  "pdf_sha256": "41534b6a171b58bda4fb5a13e03b276443b4ccac07084c40da7cd33e0e6744a5",
+  "page_count": 9,
+  "reference_start_page": 6,
+  "bibliography": [
+    {
+      "page": 6,
+      "text": "[1] Jinze Bai, Shuai Bai, Yunfei Chu, Zeyu Cui, Kai Dang, Xiaodong Deng, Yang Fan, Wenbin\nGe, Yu Han, Fei Huang, et al. Qwen technical report. arXiv preprint arXiv:2309.16609, 2023.\n[2] Matt Beton, Seth Howes, Alex Cheema, and Mohamed Baioumy. Improving the efficiency of\ndistributed training using sparse parameter averaging. In ICLR 2025 Workshop on Modularity\nfor Collaborative, Decentralized, and Continual Deep Learning, 2025. URL https://\nopenreview.net/forum?id=stFPf3gzq1.\n[3] Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, Michael Pieler, USVSN Sai\nPrashanth, Shivanshu Purohit, Laria Reynolds, Jonathan Tow, Ben Wang, and Samuel Weinbach. Gpt-neox-20b: An open-source autoregressive language model, 2022. URL https:\n//arxiv.org/abs/2204.06745.\n[4] Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei. Imagenet: A largescale hierarchical image database. In 2009 IEEE Conference on Computer Vision and Pattern\nRecognition, pages 248–255, 2009. doi: 10.1109/CVPR.2009.5206848.\n[5] Arthur Douillard, Qixuan Feng, Andrei A. Rusu, Rachita Chhaparia, Yani Donchev, Adhiguna\nKuncoro, Marc’Aurelio Ranzato, Arthur Szlam, and Jiajun Shen. Diloco: Distributed lowcommunication training of language models, 2024. URL https://arxiv.org/abs/\n2311.08105.\n[6] Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning for image\nrecognition, 2015. URL https://arxiv.org/abs/1512.03385.\n[7] Tzu-Ming Harry Hsu, Hang Qi, and Matthew Brown. Measuring the effects of non-identical\ndata distribution for federated visual classification, 2019. URL https://arxiv.org/\nabs/1909.06335.\n[8] Sai Praneeth Karimireddy, Quentin Rebjock, Sebastian U. Stich, and Martin Jaggi. Error\nfeedback fixes signsgd and other gradient compression schemes, 2019. URL https://\narxiv.org/abs/1901.09847.\n[9] Sai Praneeth Karimireddy, Satyen Kale, Mehryar Mohri, Sashank J. Reddi, Sebastian U. Stich,\nand Ananda Theertha Suresh. Scaffold: Stochastic controlled averaging for federated learning,\n2021. URL https://arxiv.org/abs/1910.06378.\n[10] Aixin Liu, Bei Feng, Bing Xue, Bingxuan Wang, Bochao Wu, Chengda Lu, Chenggang Zhao,\nChengqi Deng, Chenyu Zhang, Chong Ruan, et al. Deepseek-v3 technical report. arXiv\npreprint arXiv:2412.19437, 2024.\n[11] H. Brendan McMahan, Eider Moore, Daniel Ramage, and Blaise Agüera y Arcas. Federated\nlearning of deep networks using model averaging. CoRR, abs/1602.05629, 2016. URL http:\n//arxiv.org/abs/1602.05629.\n\n6\n"
+    },
+    {
+      "page": 7,
+      "text": "D ISTRIBUTED L OW-C OMMUNICATION T RAINING WITH D ECOUPLED M OMENTUM O PTIMIZATION\n\n[12] Guilherme Penedo, Quentin Malartic, Daniel Hesslow, Ruxandra Cojocaru, Alessandro Cappelli, Hamza Alobeidli, Baptiste Pannier, Ebtesam Almazrouei, and Julien Launay. The refinedweb dataset for falcon llm: Outperforming curated corpora with web data, and web data\nonly, 2023. URL https://arxiv.org/abs/2306.01116.\n[13] Bowen Peng, Jeffrey Quesnelle, and Diederik P. Kingma. Demo: Decoupled momentum\noptimization, 2024. URL https://arxiv.org/abs/2411.19870.\n[14] Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena,\nYanqi Zhou, Wei Li, and Peter J. Liu. Exploring the limits of transfer learning with a unified\ntext-to-text transformer, 2023. URL https://arxiv.org/abs/1910.10683.\n[15] Sashank Reddi, Zachary Charles, Manzil Zaheer, Zachary Garrett, Keith Rush, Jakub\nKonečný, Sanjiv Kumar, and H. Brendan McMahan. Adaptive federated optimization, 2021.\nURL https://arxiv.org/abs/2003.00295.\n[16] Mohammad Shoeybi, Mostofa Patwary, Raul Puri, Patrick LeGresley, Jared Casper, and Bryan\nCatanzaro. Megatron-lm: Training multi-billion parameter language models using model parallelism, 2020. URL https://arxiv.org/abs/1909.08053.\n[17] Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, and Guillaume Lample. Llama: Open and efficient\nfoundation language models, 2023. URL https://arxiv.org/abs/2302.13971.\n[18] Jue Wang, Yucheng Lu, Binhang Yuan, Beidi Chen, Percy Liang, Christopher De Sa, Christopher Re, and Ce Zhang. CocktailSGD: Fine-tuning foundation models over 500Mbps networks. In Andreas Krause, Emma Brunskill, Kyunghyun Cho, Barbara Engelhardt, Sivan\nSabato, and Jonathan Scarlett, editors, Proceedings of the 40th International Conference on\nMachine Learning, volume 202 of Proceedings of Machine Learning Research, pages 36058–\n36076. PMLR, 23–29 Jul 2023. URL https://proceedings.mlr.press/v202/\nwang23t.html.\n[19] WenZheng Zhang, Yang Hu, Jing Shi, and Xiaoying Bai. Poplar: Efficient scaling of distributed dnn training on heterogeneous gpu clusters, 2024. URL https://arxiv.org/\nabs/2408.12596.\n\n7\n"
+    },
+    {
+      "page": 8,
+      "text": "D ISTRIBUTED L OW-C OMMUNICATION T RAINING WITH D ECOUPLED M OMENTUM O PTIMIZATION\n"
+    }
+  ]
+}

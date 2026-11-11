@@ -1,0 +1,32 @@
+{
+  "id": "W3007403887",
+  "title": "Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2002.11364",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:04:36.479856+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/2002.11364",
+  "pdf_sha256": "8d06b986eb0d5fab5dbd1af2893d37339ed5992acd5327fc7f9c67bfc05dca35",
+  "page_count": 23,
+  "reference_start_page": 9,
+  "bibliography": [
+    {
+      "page": 9,
+      "text": "Alistarh, D., Grubic, D., Li, J., Tomioka, R., and Vojnovic,\nM. QSGD: Communication-efficient SGD via gradient\nquantization and encoding. In Advances in Neural Information Processing Systems, pp. 1709–1720, 2017.\nAllen-Zhu, Z. Katyusha: The first direct acceleration of\nstochastic gradient methods. In Proceedings of the 49th\nAnnual ACM SIGACT Symposium on Theory of Computing, pp. 1200–1205. ACM, 2017.\nAllen-Zhu, Z., Qu, Z., Richtárik, P., and Yuan, Y. Even\nfaster accelerated coordinate descent using non-uniform\nsampling. In The 33rd International Conference on Machine Learning, pp. 1110–1119, 2016.\nBeck, A. and Teboulle, M. A fast iterative shrinkagethresholding algorithm for linear inverse problems. SIAM\nJournal on Imaging Sciences, 2(1):183–202, 2009.\nHanzely, F. and Richtárik, P. Accelerated coordinate descent\nwith arbitrary sampling and best rates for minibatches. In\nThe 22nd International Conference on Artificial Intelligence and Statistics, 2019a.\nHanzely, F. and Richtárik, P. One method to rule them all:\nvariance reduction for data, parameters and many new\nmethods. arXiv preprint arXiv:1905.11266, 2019b.\n\nKhaled, A., Mishchenko, K., and Richtárik, P. First analysis of local GD on heterogeneous data. In NeurIPS\nWorkshop on Federated Learning for Data Privacy and\nConfidentiality, pp. 1–11, 2019.\nKhaled, A., Mishchenko, K., and Richtárik, P. Tighter theory\nfor local SGD on identical and heterogeneous data. In The\n23rd International Conference on Artificial Intelligence\nand Statistics (AISTATS 2020), 2020.\nKhirirat, S., Feyzmahdavian, H. R., and Johansson, M.\nDistributed learning with compressed gradients. arXiv\npreprint arXiv:1806.06573, 2018.\nKingma, D. P. and Ba, J. Adam: a method for stochastic\noptimization. In The 3rd International Conference on\nLearning Representations, 2014.\nKonečný, J., McMahan, H. B., Yu, F., Richtárik, P., Suresh,\nA. T., and Bacon, D. Federated learning: strategies for\nimproving communication efficiency. In NIPS Private\nMulti-Party Machine Learning Workshop, 2016.\nKovalev, D., Horváth, S., and Richtárik, P. Dont jump\nthrough hoops and remove those loops: SVRG and\nKatyusha are better without the outer loop. In Proceedings of the 31st International Conference on Algorithmic\nLearning Theory, 2020.\nLan, G., Li, Z., and Zhou, Y. A unified variance-reduced\naccelerated gradient method for convex optimization. In\nAdvances in Neural Information Processing Systems, pp.\n10462–10472, 2019.\nLi, T., Sahu, A. K., Talwalkar, A., and Smith, V. Federated learning: challenges, methods, and future directions.\narXiv preprint arXiv:1908.07873, 2019.\n\nHanzely, F., Mishchenko, K., and Richtárik, P. SEGA:\nvariance reduction via gradient sketching. In Advances\nin Neural Information Processing Systems 31, pp. 2082–\n2093, 2018.\n\nLi, Z. and Richtárik, P. A unified analysis of stochastic\ngradient methods for nonconvex federated optimization.\narXiv preprint arXiv:2006.07013, 2020.\n\nHorváth, S., Ho, C.-Y., Ľudovı́t Horváth, Sahu, A. N.,\nCanini, M., and Richtárik, P. Natural compression for distributed deep learning. arXiv preprint arXiv:1905.10988,\n2019a.\n\nMa, C., Konečný, J., Jaggi, M., Smith, V., Jordan, M. I.,\nRichtárik, P., and Takáč, M. Distributed optimization\nwith arbitrary local solvers. Optimization Methods and\nSoftware, 32(4):813–848, 2017.\n\nHorváth, S., Kovalev, D., Mishchenko, K., Stich, S., and\nRichtárik, P. Stochastic distributed learning with gradient quantization and variance reduction. arXiv preprint\narXiv:1904.05115, 2019b.\n\nMcMahan, H. B., Moore, E., Ramage, D., Hampson, S., and\nAgüera y Arcas, B. Communication-efficient learning\nof deep networks from decentralized data. In Proceedings of the 20th International Conference on Artificial\nIntelligence and Statistics (AISTATS), 2017.\n\nKarimireddy, S., Kale, S., Mohri, M., Reddi, S., Stich, S.,\nand Suresh, A. SCAFFOLD: Stochastic controlled averaging for on-device federated learning. arXiv preprint\narXiv:1910.06378, 2019.\n\nMishchenko, K., Gorbunov, E., Takáč, M., and Richtárik,\nP. Distributed learning with compressed gradient differences. arXiv preprint arXiv:1901.09269, 2019.\n"
+    },
+    {
+      "page": 10,
+      "text": "Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization\n\nNesterov, Y. A method for unconstrained convex minimization problem with the rate of convergence o(1/k 2 ). In\nDoklady AN USSR, volume 269, pp. 543–547, 1983.\nNesterov, Y. Introductory lectures on convex optimization:\na basic course. Kluwer Academic Publishers, 2004.\nNesterov, Y. Efficiency of coordinate descent methods on\nhuge-scale optimization problems. SIAM Journal on\nOptimization, 22(2):341–362, 2012.\nQian, X., Qu, Z., and Richtárik, P. L-SVRG and LKatyusha with arbitrary sampling. arXiv preprint\narXiv:1906.01481, 2019.\nSeide, F., Fu, H., Droppo, J., Li, G., and Yu, D. 1-bit stochastic gradient descent and its application to data-parallel\ndistributed training of speech DNNs. In Fifteenth Annual\nConference of the International Speech Communication\nAssociation, 2014.\nStich, S. U. Local SGD converges fast and communicates\nlittle. In International Conference on Learning Representations, 2019.\nStich, S. U., Cordonnier, J.-B., and Jaggi, M. Sparsified\nSGD with memory. In Advances in Neural Information\nProcessing Systems, pp. 4447–4458, 2018.\nWangni, J., Wang, J., Liu, J., and Zhang, T. Gradient sparsification for communication-efficient distributed optimization. In Advances in Neural Information Processing\nSystems, pp. 1306–1316, 2018.\n"
+    },
+    {
+      "page": 11,
+      "text": "Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization\n"
+    }
+  ]
+}

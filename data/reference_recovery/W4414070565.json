@@ -1,0 +1,17 @@
+{
+  "id": "W4414070565",
+  "title": "Fedavg-Db: A Dual-Loop Dynamic Batch Optimization Framework for Efficient and Robust Federated Learning",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.itm-conferences.org/articles/itmconf/pdf/2025/09/itmconf_cseit2025_04007.pdf",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1051/itmconf/20257804007",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:11:40.959923+00:00"
+}

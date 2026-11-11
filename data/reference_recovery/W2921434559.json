@@ -1,0 +1,32 @@
+{
+  "id": "W2921434559",
+  "title": "Asynchronous Federated Optimization",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/1903.03934",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:03:01.421457+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/1903.03934",
+  "pdf_sha256": "1abf60653028c8753f6396e6b579c6902c3d7057a9890dfd5bf73e904cac0402",
+  "page_count": 11,
+  "reference_start_page": 6,
+  "bibliography": [
+    {
+      "page": 6,
+      "text": "[1] Keith Bonawitz, Vladimir Ivanov, Ben Kreuter, Antonio Marcedone, H Brendan McMahan,\nSarvar Patel, Daniel Ramage, Aaron Segal, and Karn Seth. Practical secure aggregation for\nprivacy-preserving machine learning. In Proceedings of the 2017 ACM SIGSAC Conference on\nComputer and Communications Security, pages 1175–1191. ACM, 2017.\n\n6\n"
+    },
+    {
+      "page": 7,
+      "text": "A SYNCHRONOUS F EDERATED O PTIMIZATION\n\n[2] Keith Bonawitz, Hubert Eichner, Wolfgang Grieskamp, Dzmitry Huba, Alex Ingerman,\nVladimir Ivanov, Chloe Kiddon, Jakub Konecny, Stefano Mazzocchi, H Brendan McMahan,\net al. Towards federated learning at scale: System design. arXiv preprint arXiv:1902.01046,\n2019.\n[3] EU. European Union’s General Data Protection Regulation (GDPR). 2018. https://\neugdpr.org/, Last visited: Nov. 2018.\n[4] Qirong Ho, James Cipar, Henggang Cui, Seunghak Lee, Jin Kyu Kim, Phillip B Gibbons,\nGarth A Gibson, Greg Ganger, and Eric P Xing. More effective distributed ml via a stale\nsynchronous parallel parameter server. In Advances in neural information processing systems,\npages 1223–1231, 2013.\n[5] Jakub Konevcnỳ, H Brendan McMahan, Felix X Yu, Peter Richtárik, Ananda Theertha Suresh,\nand Dave Bacon. Federated learning: Strategies for improving communication efficiency. arXiv\npreprint arXiv:1610.05492, 2016.\n[6] Alex Krizhevsky and Geoffrey Hinton. Learning multiple layers of features from tiny images.\nTechnical report, Citeseer, 2009.\n[7] Mu Li, David G Andersen, Jun Woo Park, Alexander J Smola, Amr Ahmed, Vanja Josifovski,\nJames Long, Eugene J Shekita, and Bor-Yiing Su. Scaling distributed machine learning with\nthe parameter server. In OSDI, volume 14, pages 583–598, 2014.\n[8] Mu Li, David G Andersen, Alexander J Smola, and Kai Yu. Communication efficient distributed\nmachine learning with the parameter server. In Advances in Neural Information Processing\nSystems, pages 19–27, 2014.\n[9] Xiangru Lian, Wei Zhang, Ce Zhang, and Ji Liu. Asynchronous decentralized parallel stochastic\ngradient descent. arXiv preprint arXiv:1710.06952, 2017.\n[10] H Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, et al. Communicationefficient learning of deep networks from decentralized data. arXiv preprint arXiv:1602.05629,\n2016.\n[11] Stephen Merity, Caiming Xiong, James Bradbury, and Richard Socher. Pointer sentinel mixture\nmodels. arXiv preprint arXiv:1609.07843, 2016.\n[12] Steve Anderson: HealthInsurance.org. Health insurance portability and accountability act of\n1996. Public law, 104:191, 1996.\n[13] US Department of Education. Family Educational Rights and Privacy Act (FERPA). 2019.\nhttps://studentprivacy.ed.gov/?src=fpco, Last visited: May. 2019.\n[14] Shuxin Zheng, Qi Meng, Taifeng Wang, Wei Chen, Nenghai Yu, Zhi-Ming Ma, and Tie-Yan\nLiu. Asynchronous stochastic gradient descent with delay compensation. In Proceedings of the\n34th International Conference on Machine Learning-Volume 70, pages 4120–4129. JMLR. org,\n2017.\n[15] Martin Zinkevich, John Langford, and Alex J Smola. Slow learners are fast. In Advances in\nneural information processing systems, pages 2331–2339, 2009.\n7\n"
+    },
+    {
+      "page": 8,
+      "text": "A SYNCHRONOUS F EDERATED O PTIMIZATION\n"
+    }
+  ]
+}

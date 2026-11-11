@@ -1,0 +1,17 @@
+{
+  "id": "W4393138637",
+  "title": "Intrusion Detection Model for Wireless Sensor Networks Based on FedAvg and XGBoost Algorithm",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://downloads.hindawi.com/journals/dsn/2024/5536615.pdf",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1155/2024/5536615",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:08:12.296673+00:00"
+}

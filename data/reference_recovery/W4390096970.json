@@ -1,0 +1,17 @@
+{
+  "id": "W4390096970",
+  "title": "k-IPfedAvg: k-Anonymous Integrally Private Federated Averaging with Convergence Guarantee",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.170327604.45388443",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "http://dx.doi.org/10.36227/techrxiv.170327604.45388443/v1",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:11:37.719421+00:00"
+}

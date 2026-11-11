@@ -1,0 +1,17 @@
+{
+  "id": "W4385840474",
+  "title": "Computation and Communication Efficient Adaptive Federated Optimization of Federated Learning for Internet of Things",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.mdpi.com/2079-9292/12/16/3451/pdf?version=1692089671",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.3390/electronics12163451",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:09:22.312405+00:00"
+}

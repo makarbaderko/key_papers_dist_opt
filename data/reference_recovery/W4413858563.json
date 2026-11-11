@@ -1,0 +1,28 @@
+{
+  "id": "W4413858563",
+  "title": "Local SGD and Federated Learning: Challenge, Application And Future",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.atlantis-press.com/article/126015353.pdf",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:13:00.657855+00:00",
+  "extractor_version": 3,
+  "url": "https://www.atlantis-press.com/article/126015353.pdf",
+  "pdf_sha256": "c0fbed85ecd9520805b781652f37fee71c6c8bb30936b1df94dfbc2161dd5da5",
+  "page_count": 13,
+  "reference_start_page": 12,
+  "bibliography": [
+    {
+      "page": 12,
+      "text": "1. McMahan,\n\nB.,\n\nMoore,\n\nE.,\n\nRamage,\n\nD.,\n\nHampson,\n\nS.,\n\n&\n\ny\n\nArcas,\n\nB.\n\nA.:Communication-efficient learning of deep networks from decentralized data. In:\nArtificial intelligence and statistics, pp. 1273-1282. PMLR (2017)\n2. Li, T., Sahu, A. K., Talwalkar, A., & Smith, V.: Federated learning: Challenges, methods,\nand future directions. In: IEEE signal processing magazine, vol. 37(3), pp.50-60. IEEE，\n(2020)\n3. Konečný, J., McMahan, H. B., Yu, F. X., Richtárik, P., Suresh, A. T., & Bacon, D.:\nFederated learning: Strategies for improving communication efficiency. arXiv preprint\narXiv:1610.05492. (2016)\n4. Hard, A., Rao, K., Mathews, R., Ramaswamy, S., Beaufays, F., Augenstein, S., ... &\nRamage, D.: Federated learning for mobile keyboard prediction. arXiv preprint\narXiv:1811.03604. (2018)\n5. Li, T., Sahu, A. K., Zaheer, M., Sanjabi, M., Talwalkar, A., & Smith, V.: FedProx:\nFederated optimization in heterogeneous networks. In: Proceedings of Machine learning\nand systems, vol. 2, pp. 429-450. (2020)\n6. Kairouz, P., McMahan, H. B., Avent, B., Bellet, A., Bennis, M., Bhagoji, A. N., ... &\nZhao, S.: Advances and open problems in federated learning. Journal (Foundations and\ntrends{\\textregistered} in machine learning), vol. 14(1-2), pp.1-210. (2021)\n7. Stich, S. U.: Local SGD converges fast and communicates little. arXiv preprint\narXiv:1805.09767. (2018)\n8. Li, T., Sahu, A. K., Zaheer, M., Sanjabi, M., Talwalkar, A., & Smith, V.: Federated\noptimization in heterogeneous networks. In: Proceedings of Machine learning and systems,\nvol. 2, pp. 429-450. (2020)\n9. Qu, Zhaonan and Lin, Kaixiang and Li, Zhaojian and Zhou, Jiayu.: In:ICLR\n2021-Workshop on Distributed and Private Machine Learning (DPML). (2021)\n10. Karimireddy, S. P., Kale, S., Mohri, M., Reddi, S., Stich, S., & Suresh, A. T.:\nSCAFFOLD: Stochastic controlled averaging for federated learning. In: International\nconference on machine learning, pp. 5132-5143. PMLR (2020)\n11. Khaled, A., Mishchenko, K., & Richtárik, P.: Tighter Theory for Local SGD on Identical\nand Heterogeneous Data, In: S. Chiappa and R. Calandra. Proceedings of the Twenty Third\nInternational Conference on Artificial Intelligence and Statistics, Proceedings of Machine\nLearning Research, vol. 108, pp. 4519-4529. PMLR (2020)\n"
+    },
+    {
+      "page": 13,
+      "text": "1102\n\nX. Tong\n\n12. Guo, Y., Sun, Y., Hu, R., & Gong, Y.: Hybrid local SGD for federated learning with\nheterogeneous communications. In: International conference on learning representations.\n(2022)\n13. Li, Q., He, B., & Song, D.: Model-contrastive federated learning. In: Proceedings of the\nIEEE/CVF conference on computer vision and pattern recognition, pp. 10713-10722.\n(2021)\n14. Ho, T. T., Tran, K. D., & Huang, Y.: FedSGDCOVID: Federated SGD COVID-19\ndetection under local differential privacy using chest X-ray images and symptom\ninformation. Journal (Sensors), vol. 22(10), pp.3728. MSPI. (2022)\n15. Abadi, M., Chu, A., Goodfellow, I., McMahan, H. B., Mironov, I., Talwar, K., & Zhang,\nL.: Deep learning with differential privacy. In: Proceedings of the 2016 ACM SIGSAC\nconference on computer and communications security, pp. 308-318. (2016)\n16. Melis, L., Song, C., De Cristofaro, E., & Shmatikov, V.: Exploiting unintended feature\nleakage in collaborative learning. In: 2019 IEEE symposium on security and privacy (SP),\npp. 691-706. IEEE (2019)\n17. Khalil, M., Esseghir, M., & Boulahia, L. M.: Privacy-Preserving federated learning: An\napplication for big data load forecast in buildings. Journal (Computers & Security),\nvol.131, pp. 103211. Elsevier. (2023)\n18. Guerraoui, R., & Rouault, S.: The hidden vulnerability of distributed learning in\nByzantium. In: International conference on machine learning, pp. 3521-3530. PMLR\n(2018)\n\nOpen Access This chapter is licensed under the terms of the Creative Commons AttributionNonCommercial 4.0 International License (http://creativecommons.org/licenses/by-nc/4.0/),\nwhich permits any noncommercial use, sharing, adaptation, distribution and reproduction in any\nmedium or format, as long as you give appropriate credit to the original author(s) and the\nsource, provide a link to the Creative Commons license and indicate if changes were made.\nThe images or other third party material in this chapter are included in the chapter's\nCreative Commons license, unless indicated otherwise in a credit line to the material. If material\nis not included in the chapter's Creative Commons license and your intended use is not\npermitted by statutory regulation or exceeds the permitted use, you will need to obtain\npermission directly from the copyright holder.\n"
+    }
+  ]
+}

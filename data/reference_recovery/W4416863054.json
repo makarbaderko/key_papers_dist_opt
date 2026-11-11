@@ -1,0 +1,32 @@
+{
+  "id": "W4416863054",
+  "title": "Biased Local SGD for Efficient Deep Learning on Heterogeneous Systems",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2508.08540",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:13:11.726682+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/2508.08540",
+  "pdf_sha256": "41156201c03afaf7ce715f4a7e8acf2da3c591f4dca97ac6e620430f7e457c49",
+  "page_count": 16,
+  "reference_start_page": 10,
+  "bibliography": [
+    {
+      "page": 10,
+      "text": "[1] Yimin Jiang, Yibo Zhu, Chang Lan, Bairen Yi, Yong Cui, and Chuanxiong Guo. A unified architecture for\naccelerating distributed {DNN} training in heterogeneous {GPU/CPU} clusters. In 14th USENIX Symposium on\nOperating Systems Design and Implementation (OSDI 20), pages 463–479, 2020.\n[2] Qing Ye, Yuhao Zhou, Mingjia Shi, Yanan Sun, and Jiancheng Lv. Dlb: A dynamic load balance strategy for\ndistributed training of deep neural networks. IEEE Transactions on Emerging Topics in Computational Intelligence,\n7(4):1217–1227, 2023.\n[3] Da Zheng, Chao Ma, Minjie Wang, Jinjing Zhou, Qidong Su, Xiang Song, Quan Gan, Zheng Zhang, and George\nKarypis. Distdgl: Distributed graph neural network training for billion-scale graphs. In 2020 IEEE/ACM 10th\nWorkshop on Irregular Applications: Architectures and Algorithms (IA3), pages 36–44. IEEE, 2020.\n[4] Taeyoon Kim, ChanHo Park, Mansur Mukimbekov, Heelim Hong, Minseok Kim, Ze Jin, Changdae Kim, Ji-Yong\nShin, and Myeongjae Jeon. Fusionflow: Accelerating data preprocessing for machine learning with cpu-gpu\ncooperation. Proceedings of the VLDB Endowment, 17(4):863–876, 2023.\n[5] Taegeon Um, Byungsoo Oh, Minyoung Kang, Woo-Yeon Lee, Goeun Kim, Dongseob Kim, Youngtaek Kim,\nMohd Muzzammil, and Myeongjae Jeon. Metis: Fast automatic distributed training on heterogeneous {GPUs}.\nIn 2024 USENIX Annual Technical Conference (USENIX ATC 24), pages 563–578, 2024.\n[6] Sebastian U Stich. Local sgd converges fast and communicates little. In International Conference on Learning\nRepresentations (ICLR), 2019.\n[7] Farzin Haddadpour, Mohammad Mahdi Kamani, Mehrdad Mahdavi, and Viveck Cadambe. Local sgd with\nperiodic averaging: Tighter analysis and adaptive synchronization. Advances in Neural Information Processing\nSystems, 32, 2019.\n[8] Ahmed Khaled, Konstantin Mishchenko, and Peter Richtárik. Tighter theory for local sgd on identical and\nheterogeneous data. In International conference on artificial intelligence and statistics, pages 4519–4529. PMLR,\n2020.\n[9] Shuheng Shen, Yifei Cheng, Jingchang Liu, and Linli Xu. Stl-sgd: Speeding up local sgd with stagewise\ncommunication period. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 35, pages\n9576–9584, 2021.\n[10] Haw-Shiuan Chang, Erik Learned-Miller, and Andrew McCallum. Active bias: Training more accurate neural\nnetworks by emphasizing high variance samples. Advances in Neural Information Processing Systems, 30, 2017.\n[11] Angelos Katharopoulos and François Fleuret. Not all samples are created equal: Deep learning with importance\nsampling. In International conference on machine learning, pages 2525–2534. PMLR, 2018.\n[12] Sihao Yu, Jiafeng Guo, Ruqing Zhang, Yixing Fan, Zizhen Wang, and Xueqi Cheng. A re-balancing strategy\nfor class-imbalanced classification based on instance difficulty. In Proceedings of the IEEE/CVF conference on\ncomputer vision and pattern recognition, pages 70–79, 2022.\n[13] Alex Krizhevsky and Geoffrey Hinton. Learning multiple layers of features from tiny images. 2009.\n[14] Maria-Elena Nilsback and Andrew Zisserman. Automated flower classification over a large number of classes. In\n2008 Sixth Indian conference on computer vision, graphics & image processing, pages 722–729. IEEE, 2008.\n[15] mnmoustafa and Mohammed Ali. Tiny imagenet. https://kaggle.com/competitions/tiny-imagenet,\n2017. Kaggle.\n[16] Xiang Zhang, Junbo Zhao, and Yann LeCun. Character-level convolutional networks for text classification.\nAdvances in neural information processing systems, 28, 2015.\n[17] Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning for image recognition. In\nProceedings of the IEEE conference on computer vision and pattern recognition, pages 770–778, 2016.\n[18] Sergey Zagoruyko and Nikos Komodakis. Wide residual networks. arXiv preprint arXiv:1605.07146, 2016.\n[19] Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner,\nMostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby. An\nimage is worth 16x16 words: Transformers for image recognition at scale. arXiv preprint arXiv:2010.11929,\n2020.\n[20] Victor Sanh, Lysandre Debut, Julien Chaumond, and Thomas Wolf. Distilbert, a distilled version of bert: smaller,\nfaster, cheaper and lighter. arXiv preprint arXiv:1910.01108, 2019.\n10\n"
+    },
+    {
+      "page": 11,
+      "text": "[21] Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei. Imagenet: A large-scale hierarchical image\ndatabase. In 2009 IEEE conference on computer vision and pattern recognition, pages 248–255. Ieee, 2009.\n[22] Jack Bandy and Nicholas Vincent. Addressing\" documentation debt\" in machine learning research: A retrospective\ndatasheet for bookcorpus. arXiv preprint arXiv:2105.05241, 2021.\n\n11\n"
+    },
+    {
+      "page": 12,
+      "text": "A\n"
+    }
+  ]
+}

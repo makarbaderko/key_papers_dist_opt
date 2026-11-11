@@ -1,0 +1,32 @@
+{
+  "id": "W3021861822",
+  "title": "FedSplit: An algorithmic framework for fast federated optimization",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2005.05238",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:02:37.629306+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/2005.05238",
+  "pdf_sha256": "5a2a98b4b4c4192d2e5b815b132164644e9e85aa966156d3010f5cc6470cdb1b",
+  "page_count": 27,
+  "reference_start_page": 25,
+  "bibliography": [
+    {
+      "page": 25,
+      "text": "[1] H. H. Bauschke and P. L. Combettes. Convex analysis and monotone operator theory in Hilbert\nspaces. Springer, 2nd edition, 2017.\n[2] D. P. Bertsekas and J. N. Tsitsiklis. Parallel and Distributed Computation: Numerical Methods.\nAthena Scientific, Boston, MA, 1997.\n[3] A. Bhowmick, J. Duchi, J. Freudiger, G. Kapoor, and R. Rogers. Protection against reconstruction and its applications in private federated learning. Technical report, 2018.\narxiv.org:1812.00984.\n[4] K. Bonawitz, H. Eichner, et al. Towards federated learning at scale: System design. Technical\nreport, February 2019. arxiv.org:1902.01046.\n[5] S. Boyd, N. Parikh, E. Chu, B. Peleato, and J. Eckstein. Distributed optimization and statistical learning via the alternating direction method of multipliers. Foundations and Trends in\nMachine Learning, 3(1):1–122, 2010.\n[6] S. Boyd and L. Vandenberghe. Convex optimization. Cambridge University Press, Cambridge,\nUK, 2004.\n[7] P. L. Combettes. Monotone operator theory in convex optimization. Math. Program., 170(1,\nSer. B):177–206, 2018.\n[8] O. Dekel, R. Gilad-Bachrach, O. Shamir, and L. Xiao. Optimal distributed online prediction\nusing mini-batches. J. Mach. Learn. Res., 13(1):165âĂŞ–202, January 2012.\n[9] S. Diamond and S. Boyd. CVXPY: A Python-embedded modeling language for convex optimization. J. Mach. Learn. Res., 17(83):1–5, 2016.\n25\n"
+    },
+    {
+      "page": 26,
+      "text": "[10] P. Giselsson. Tight global linear convergence rate bounds for Douglas-Rachford splitting. J.\nFixed Point Theory Appl., 19(4):2241—2270, 2017.\n[11] P. Giselsson and S. Boyd. Linear convergence and metric selection for Douglas-Rachford splitting and ADMM. IEEE Trans. Automatic Control, 62(2):532–544, February 2017.\n[12] K. Goebel and W. A. Kirk. Topics in metric fixed point theory, volume 28 of Cambridge Studies\nin Advanced Mathematics. Cambridge University Press, Cambridge, 1990.\n[13] P. Kairouz, H. B. McMahan, et al. Advances and open problems in federated learning. Technical\nreport, December 2019. arXiv.org:1912.04977.\n[14] S. Lacoste-Julien, M. Schmidt, and F. Bach.\nA simpler approach to obtaining an\nO(1/t) convergence rate for the projected stochastic subgradient method. Technical Report\narxiv.org/abs/1212.2002, December 2012.\n[15] M. Li, D. G. Andersen, A. J. Smola, and K. Yu. Communication efficient distributed machine\nlearning with the parameter server. In Advances in Neural Information Processing Systems 27,\npages 19—27. Curran Associates, Inc., 2014.\n[16] T. Li, A. K. Sahu, A. Talwalkar, and V. Smith. Federated learning: challenges, methods and\nfuture directions. Technical Report arxiv.org/abs/1908.07873, August 2019.\n[17] T. Li, A. K. Sahu, M. Zaheer, M. Sanjabi, A. Talwalkar, and V. Smith. Federated optimization\nin heterogeneous networks. Technical Report arxiv.org/abs/1812.06127, December 2018.\n[18] H. B. McMahan, E. Moore, D. Ramage, S. Hampson, and B. A. Arcas. Communication-efficient\nlearning of deep networks from decentralized data. Technical Report arxiv.org/abs/1602.05629,\nFebruary 2016.\n[19] W. M. Moursi and L. Vandenberghe. Douglas-Rachford splitting for the sum of a Lipschitz\ncontinuous and a strongly monotone operator. J. Optimization Theory and Applications,\n183(1):179–198, 2019.\n[20] N. Parikh, S. Boyd, et al. Proximal algorithms. Foundations and Trends R in Optimization,\n1(3):127–239, 2014.\n[21] D. W. Peaceman and Jr. H. H. Rachford. The numerical solution of parabolic and elliptic\ndifferential equations. Journal of the SIAM, 3(1):28–41, March 1955.\n[22] M. Pilanci and M. J. Wainwright. Iterative Hessian Sketch: Fast and accurate solution approximation for constrained least-squares. Journal of Machine Learning Research, 17(53):1–38,\nApril 2016.\n[23] M. Pilanci and M. J. Wainwright. Newton sketch: A linear-time optimization algorithm with\nlinear-quadratic convergence. SIAM Jour. Opt., 27(1):205–245, March 2017.\n[24] P. Richtárik and M. Takáč. Distributed coordinate descent method for learning with big data.\nJ. Mach. Learn. Res., 17(1):2657—2681, January 2016.\n[25] R. T. Rockafellar. Convex Analysis. Princeton University Press, Princeton, 1970.\n26\n"
+    },
+    {
+      "page": 27,
+      "text": "[26] R. T. Rockafellar. Monotone operators and the proximal point algorithm. SIAM J. Control\nOptim., 14(5):877–898, 1976.\n[27] R.T. Rockafellar and R. J-B Wets. Variational Analysis, volume 317. Springer Science &\nBusiness Media, 2009.\n[28] E. K. Ryu and S.P. Boyd. Primer on monotone operator methods. Applied Computational\nMathematics: an Interational Journal, 15(1):3–43, 2016.\n[29] M. J. Wainwright. High-dimensional statistics: A non-asymptotic viewpoint. Cambridge University Press, Cambridge, UK, 2019.\n[30] B. E. Woodworth, K. K. Patel, S. U. Stich, Z. Dai, B. Bullins, H. B. McMahan, O. Shamir,\nand N. Srebro. Is local SGD better than minibatch SGD? Technical report, 2020.\narxiv.org:2002.07839.\n[31] Y. Zhang, J. C. Duchi, and M. J. Wainwright. Communication-efficient algorithms for statistical\noptimization. J. Mach. Learn. Res., 14(68):3321—3363, 2013.\n\n27\n"
+    }
+  ]
+}

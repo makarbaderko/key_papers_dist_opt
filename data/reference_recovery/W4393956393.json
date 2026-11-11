@@ -1,0 +1,17 @@
+{
+  "id": "W4393956393",
+  "title": "Architecture-Based FedAvg for Vertical Federated Learning",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3603166.3632559",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1145/3603166.3632559",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:09:35.069515+00:00"
+}

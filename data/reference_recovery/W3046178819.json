@@ -1,0 +1,24 @@
+{
+  "id": "W3046178819",
+  "title": "Communication-Efficient Federated Learning via Optimal Client Sampling",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://doi.org/10.52591/lxai2020071310",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:05:05.281471+00:00",
+  "extractor_version": 3,
+  "url": "https://research.latinxinai.org/papers/icml/2020/pdf/Poster_Monica_Ribero.pdf",
+  "pdf_sha256": "a91e5978c2af62e63bda0d785a6a30fa13c7e39f009acbebbb051e29c6913e26",
+  "page_count": 4,
+  "reference_start_page": 4,
+  "bibliography": [
+    {
+      "page": 4,
+      "text": "Abadi, M., Chu, A., Goodfellow, I., McMahan, H. B.,\nMironov, I., Talwar, K., and Zhang, L. Deep learning\nwith differential privacy. pp. 308–318. ACM, 2016.\nAlistarh, D., Grubic, D., Li, J., Tomioka, R., and Vojnovic,\nM. Qsgd: Communication-efficient sgd via gradient quantization and encoding. In Advances in Neural Information\nProcessing Systems, pp. 1709–1720, 2017.\nBommannavar, P. A. and Başar, T. Optimal estimation\nover channels with limits on usage. IFAC Proceedings\nVolumes, 41(2):6632–6637, 2008.\nCaldas, S., Konečny, J., McMahan, H. B., and Talwalkar,\nA. Expanding the reach of federated learning by reducing client resource requirements. arXiv preprint\narXiv:1812.07210, 2018.\nGuo, N. and Kostina, V. Optimal causal rate-constrained\nsampling for a class of continuous markov processes.\narXiv preprint arXiv:2002.01581, 2020.\nHorvath, S., Ho, C.-Y., Horvath, L., Sahu, A. N., Canini,\nM., and Richtarik, P. Natural compression for distributed\ndeep learning. arXiv preprint arXiv:1905.10988, 2019.\nImer, O. C. and Basar, T. Optimal estimation with limited\nmeasurements. In Proceedings of the 44th IEEE Conference on Decision and Control, pp. 1029–1034. IEEE,\n2005.\nKairouz, P., McMahan, H. B., Avent, B., Bellet, A., Bennis,\nM., Bhagoji, A. N., Bonawitz, K., Charles, Z., Cormode,\nG., Cummings, R., et al. Advances and open problems\nin federated learning. arXiv preprint arXiv:1912.04977,\n2019.\n\npp. 1273–1282, Fort Lauderdale, FL, USA, 20–22 Apr\n2017. PMLR. URL http://proceedings.mlr.\npress/v54/mcmahan17a.html.\nMcMahan, H. B., Andrew, G., Erlingsson, U., Chien, S.,\nMironov, I., Papernot, N., and Kairouz, P. A general approach to adding differential privacy to iterative training\nprocedures. arXiv preprint arXiv:1812.06210, 2018.\nNar, K. and Başar, T. Sampling multidimensional wiener\nprocesses. In 53rd IEEE Conference on Decision and\nControl, pp. 3426–3431, Dec 2014. doi: 10.1109/CDC.\n2014.7039920.\nNayyar, A., Başar, T., Teneketzis, D., and Veeravalli, V. V.\nOptimal strategies for communication and remote estimation with an energy harvesting sensor. IEEE Transactions\non Automatic Control, 58(9):2246–2260, 2013.\nOrnee, T. Z. and Sun, Y. Sampling for remote estimation\nthrough queues: Age of information and beyond. arXiv\npreprint arXiv:1902.03552, 2019.\nRabi, M., Moustakides, G. V., and Baras, J. S. Adaptive\nsampling for linear state estimation. SIAM Journal on\nControl and Optimization, 50(2):672–702, 2012.\nSun, Y., Polyanskiy, Y., and Uysal-Biyikoglu, E. Remote\nestimation of the wiener process over a channel with\nrandom delay. In 2017 IEEE International Symposium\non Information Theory (ISIT), pp. 321–325. IEEE, 2017.\nSuresh, A. T., Yu, F. X., Kumar, S., and McMahan, H. B.\nDistributed mean estimation with limited communication.\nIn Proceedings of the 34th International Conference on\nMachine Learning-Volume 70, pp. 3329–3337. JMLR.\norg, 2017.\n\nKonečnỳ, J. and Richtárik, P. Randomized distributed mean\nestimation: Accuracy vs. communication. Frontiers in\nApplied Mathematics and Statistics, 4:62, 2018.\n\nTang, H., Lian, X., Zhang, T., and Liu, J. Doublesqueeze: Parallel stochastic gradient descent with\ndouble-pass error-compensated compression. arXiv\npreprint arXiv:1905.05957, 2019.\n\nKonečnỳ, J., McMahan, H. B., Yu, F. X., Richtárik, P.,\nSuresh, A. T., and Bacon, D. Federated learning: Strategies for improving communication efficiency. arXiv\npreprint arXiv:1610.05492, 2016.\n\nWu, X., Li, F., Kumar, A., Chaudhuri, K., Jha, S., and\nNaughton, J. Bolt-on differential privacy for scalable\nstochastic gradient descent-based analytics. pp. 1307–\n1322. ACM, 2017.\n\nMandt, S., Hoffman, M., and Blei, D. A variational analysis of stochastic gradient algorithms. In International\nconference on machine learning, pp. 354–363, 2016.\nMcMahan, B., Moore, E., Ramage, D., Hampson, S., and\ny Arcas, B. A. Communication-Efficient Learning of\nDeep Networks from Decentralized Data. In Singh, A.\nand Zhu, J. (eds.), Proceedings of the 20th International\nConference on Artificial Intelligence and Statistics, volume 54 of Proceedings of Machine Learning Research,\n"
+    }
+  ]
+}

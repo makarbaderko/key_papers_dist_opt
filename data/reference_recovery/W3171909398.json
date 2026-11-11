@@ -1,0 +1,13 @@
+{
+  "id": "W3171909398",
+  "title": "Federated Learning for Image Classification Using Federated Averaging Algorithm",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.annalsofrscb.ro/index.php/journal/article/view/6649",
+      "result": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.annalsofrscb.ro'. (_ssl.c:1002)>"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:11:15.163875+00:00"
+}

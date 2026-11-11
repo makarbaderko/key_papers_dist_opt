@@ -1,0 +1,17 @@
+{
+  "id": "W4221125818",
+  "title": "Centralized Machine Learning Versus Federated Averaging: A Comparison using MNIST Dataset",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "http://itiis.org/digital-library/manuscript/file/25317/TIIS Vol 16, No 2-20.pdf",
+      "result": "URL can't contain control characters. '/digital-library/manuscript/file/25317/TIIS Vol 16, No 2-20.pdf' (found at least ' ')"
+    },
+    {
+      "url": "https://doi.org/10.3837/tiis.2022.02.020",
+      "result": "URL can't contain control characters. '/digital-library/manuscript/file/25317/TIIS Vol 16, No 2-20.pdf' (found at least ' ')"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:09:09.439620+00:00"
+}

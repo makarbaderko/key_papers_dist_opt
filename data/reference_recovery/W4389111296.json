@@ -1,0 +1,17 @@
+{
+  "id": "W4389111296",
+  "title": "Server-Side Stepsizes and Sampling Without Replacement Provably Help in Federated Optimization",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3630048.3630187",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.1145/3630048.3630187",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:07:44.203118+00:00"
+}

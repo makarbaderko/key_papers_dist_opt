@@ -1,0 +1,17 @@
+{
+  "id": "W4401891541",
+  "title": "FedAvg-P: Performance-Based Hierarchical Federated Learning-Based Anomaly Detection System Aggregation Strategy for Advanced Metering Infrastructure",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.mdpi.com/1424-8220/24/17/5492/pdf?version=1724659864",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://doi.org/10.3390/s24175492",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:07:46.788013+00:00"
+}

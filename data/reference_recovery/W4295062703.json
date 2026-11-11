@@ -1,0 +1,17 @@
+{
+  "id": "W4295062703",
+  "title": "Federated Optimization of ℓ0-norm Regularized Sparse Learning",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://www.mdpi.com/1999-4893/15/9/319/pdf?version=1663808249",
+      "result": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://dx.doi.org/10.3390/a15090319",
+      "result": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "status": "unavailable",
+  "retrieved_at": "2026-11-10T16:10:36.321222+00:00"
+}

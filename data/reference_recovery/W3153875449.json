@@ -1,0 +1,22 @@
+{
+  "id": "W3153875449",
+  "title": "Gradient Masked Federated Optimization",
+  "no_indexed_refs": false,
+  "attempts": [],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:10:23.300098+00:00",
+  "url": "https://arxiv.org/pdf/2104.10322",
+  "pdf_sha256": "cdf63ff855fe704991546bfcce603aab0c283c7f062d8def363bb8bf4d15d69f",
+  "extractor_version": 3,
+  "reference_start_page": 5,
+  "bibliography": [
+    {
+      "page": 5,
+      "text": "Martin Arjovsky, Léon Bottou, Ishaan Gulrajani, and David Lopez-Paz. Invariant risk minimization.\narXiv preprint arXiv:1907.02893, 2019.\nDevansh Arpit, Caiming Xiong, and Richard Socher. Predicting with high correlation features, 2019.\nFarzin Haddadpour and Mehrdad Mahdavi. On the convergence of local descent methods in federated learning, 2019.\nPeter Kairouz, H. Brendan McMahan, Brendan Avent, Aurélien Bellet, Mehdi Bennis, Arjun Nitin\nBhagoji, Keith Bonawitz, Zachary Charles, Graham Cormode, Rachel Cummings, Rafael G. L.\nD’Oliveira, Salim El Rouayheb, David Evans, Josh Gardner, Zachary Garrett, Adrià Gascón,\nBadih Ghazi, Phillip B. Gibbons, Marco Gruteser, Zaı̈d Harchaoui, Chaoyang He, Lie He,\nZhouyuan Huo, Ben Hutchinson, Justin Hsu, Martin Jaggi, Tara Javidi, Gauri Joshi, Mikhail\nKhodak, Jakub Konecný, Aleksandra Korolova, Farinaz Koushanfar, Sanmi Koyejo, Tancrède\nLepoint, Yang Liu, Prateek Mittal, Mehryar Mohri, Richard Nock, Ayfer Özgür, Rasmus Pagh,\nMariana Raykova, Hang Qi, Daniel Ramage, Ramesh Raskar, Dawn Song, Weikang Song, Sebastian U. Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth Vepakomma,\nJianyu Wang, Li Xiong, Zheng Xu, Qiang Yang, Felix X. Yu, Han Yu, and Sen Zhao. Advances and open problems in federated learning. CoRR, abs/1912.04977, 2019. URL http:\n//arxiv.org/abs/1912.04977.\nSai Praneeth Karimireddy, Satyen Kale, Mehryar Mohri, Sashank Reddi, Sebastian Stich, and\nAnanda Theertha Suresh. SCAFFOLD: Stochastic controlled averaging for federated learning. In Hal Daumé III and Aarti Singh (eds.), Proceedings of the 37th International Conference on Machine Learning, volume 119 of Proceedings of Machine Learning Research, pp.\n5132–5143. PMLR, 13–18 Jul 2020. URL http://proceedings.mlr.press/v119/\nkarimireddy20a.html.\nJakub Konecný, H. Brendan McMahan, Felix X. Yu, Peter Richtárik, Ananda Theertha Suresh, and\nDave Bacon. Federated learning: Strategies for improving communication efficiency. CoRR,\nabs/1610.05492, 2016. URL http://arxiv.org/abs/1610.05492.\nTian Li, Anit Kumar Sahu, Manzil Zaheer, Maziar Sanjabi, Ameet Talwalkar, and Virginia Smith.\nFederated optimization in heterogeneous networks, 2020.\nH. McMahan, Eider Moore, D. Ramage, S. Hampson, and Blaise Agüera y Arcas. Communicationefficient learning of deep networks from decentralized data. In AISTATS, 2017.\nGiambattista Parascandolo, Alexander Neitz, Antonio Orvieto, Luigi Gresele, and Bernhard\nSchölkopf. Learning explanations that are hard to vary, 2020.\nJianyu Wang, Qinghua Liu, Hao Liang, Gauri Joshi, and H. Vincent Poor.\nTackling\nthe objective inconsistency problem in heterogeneous federated optimization.\nIn Hugo\nLarochelle, Marc’Aurelio Ranzato, Raia Hadsell, Maria-Florina Balcan, and Hsuan-Tien\nLin (eds.), Advances in Neural Information Processing Systems 33: Annual Conference\non Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020,\n5\n"
+    },
+    {
+      "page": 6,
+      "text": "ICLR 2021 - Workshop on Distributed and Private Machine Learning (DPML)\n\nvirtual, 2020a.\nURL https://proceedings.neurips.cc/paper/2020/hash/\n564127c03caab942e503ee6f810f54fd-Abstract.html.\nJianyu Wang, Qinghua Liu, Hao Liang, Gauri Joshi, and H. Vincent Poor. Tackling the objective\ninconsistency problem in heterogeneous federated optimization, 2020b.\nXin Yao, Tianchi Huang, Rui-Xiao Zhang, Ruiyu Li, and Lifeng Sun. Federated learning with\nunbiased gradient aggregation and controllable meta updating, 2020.\n\nA\n"
+    }
+  ]
+}

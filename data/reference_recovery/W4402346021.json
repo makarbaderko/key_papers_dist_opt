@@ -1,0 +1,24 @@
+{
+  "id": "W4402346021",
+  "title": "Comparing Federated Stochastic Gradient Descent and Federated Averaging for Predicting Hospital Length of Stay",
+  "no_indexed_refs": true,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2407.12741",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:00:46.351354+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/2407.12741",
+  "pdf_sha256": "478ecc773fd20ba18a7e766391f105f5797669e3d70935aeb65bc0132818bd9d",
+  "page_count": 6,
+  "reference_start_page": 6,
+  "bibliography": [
+    {
+      "page": 6,
+      "text": "[1] Z. Wang, J. S. Ji, Y. Liu, R. Liu, Y. Zha, X. Chang,\nL. Zhang, Q. Liu, Y. Zhang, J. Zeng et al., “Survival analysis of hospital length of stay of novel coronavirus (covid-19) pneumonia patients in sichuan, china,”\nMedrxiv, pp. 2020–04, 2020.\n[2] S. Ellahham and N. Ellahham, “Use of artificial intelligence for improving patient flow and healthcare delivery,” J. Comput. Sci. Syst. Biol, vol. 12, no. 3, 2019.\n[3] O. Khosravizadeh, S. Vatankhah, P. Bastani, R. Kalhor,\nS. Alirezaei, and F. Doosty, “Factors affecting length of\nstay in teaching hospitals of a middle-income country,”\nElectronic physician, vol. 8, no. 10, p. 3042, 2016.\n[4] S. Shea, R. V. Sideli, W. DuMouchel, G. Pulver, R. R.\nArons, and P. D. Clayton, “Computer-generated informational messages directed to physicians: effect on\nlength of hospital stay,” Journal of the American Medical Informatics Association, vol. 2, no. 1, pp. 58–64,\n1995.\n[5] B. Alsinglawi, F. Alnajjar, O. Mubin, M. Novoa,\nM. Alorjani, O. Karajeh, and O. Darwish, “Predicting length of stay for cardiovascular hospitalizations in\nthe intensive care unit: Machine learning approach,” in\n2020 42nd annual international conference of the IEEE\nengineering in medicine & biology society (EMBC).\nIEEE, 2020, pp. 5442–5445.\n[6] R. N. Mekhaldi, P. Caulier, S. Chaabane, A. Chraibi,\nand S. Piechowiak, “Using machine learning models\nto predict the length of stay in a hospital setting,” in\nWorld conference on information systems and technologies. Springer, 2020, pp. 202–211.\n[7] L. Turgeman, J. H. May, and R. Sciulli, “Insights from\na machine learning model for predicting the hospital\nlength of stay (los) at the time of admission,” Expert\nSystems with Applications, vol. 78, pp. 376–385, 2017.\n[8] P.-F. J. Tsai, P.-C. Chen, Y.-Y. Chen, H.-Y. Song, H.-M.\nLin, F.-M. Lin, and Q.-P. Huang, “Length of hospital\nstay prediction at the admission stage for cardiology patients using artificial neural network,” Journal of healthcare engineering, vol. 2016, 2016.\n[9] Microsoft, “Predicting hospital length of stay.”\n[Online]. Available:\nhttps://microsoft.github.io/\nr-server-hospital-length-of-stay/input data.html\n[10] A. Jung, “Federated learning,” Lecture notes of the\ncourse CS-E4740, 2024.\n"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "W7106129182",
+  "title": "What happens when nanochat meets DiLoCo?",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://arxiv.org/pdf/2511.13761",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:10:59.721749+00:00",
+  "extractor_version": 3,
+  "url": "https://arxiv.org/pdf/2511.13761",
+  "pdf_sha256": "69560a2cc6cf0e1f7aa9b598e2f300a79e0cf77c3516bf92f08e3a45574063a2",
+  "page_count": 8,
+  "reference_start_page": 7,
+  "bibliography": [
+    {
+      "page": 7,
+      "text": "[1]\n\nAndrej Karpathy. nanochat: The best ChatGPT that $100 can buy. 2025. url: https://github.\ncom/karpathy/nanochat.\n\n[2]\n\nArthur Douillard et al. DiLoCo: Distributed Low-Communication Training of Language Models. 2024. arXiv: 2311.08105 [cs.LG]. url: https://arxiv.org/abs/2311.08105.\n"
+    },
+    {
+      "page": 8,
+      "text": "8\n\nexalsius research\n\n[3]\n\nZachary Charles et al. Communication-Efficient Language Model Training Scales Reliably and\nRobustly: Scaling Laws for DiLoCo. 2025. arXiv: 2503.09799 [cs.LG]. url: https://arxiv.\norg/abs/2503.09799.\n\n[4]\n\nArthur Douillard et al. “Streaming diloco with overlapping communication: Towards a distributed free lunch”. In: arXiv preprint arXiv:2501.18512 (2025).\n\n[5]\n\nSami Jaghouar, Jack Min Ong, and Johannes Hagemann. “Opendiloco: An open-source framework for globally distributed low-communication training”. In: arXiv preprint arXiv:2407.07852\n(2024).\n\n[6]\n\nIdo Hakimi et al. Taming Momentum in a Distributed Asynchronous Environment. 2020.\narXiv: 1907.11612 [cs.LG]. url: https://arxiv.org/abs/1907.11612.\n\n[7]\n\nYatin Dandi, Luis Barba, and Martin Jaggi. Implicit Gradient Alignment in Distributed and\nFederated Learning. 2021. arXiv: 2106.13897 [cs.LG]. url: https://arxiv.org/abs/2106.13897.\n"
+    }
+  ]
+}

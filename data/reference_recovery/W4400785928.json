@@ -1,0 +1,32 @@
+{
+  "id": "W4400785928",
+  "title": "Federated Optimization Algorithms",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://stanfordgroup.org/index.php/BioQI/article/download/839/751",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:12:51.778342+00:00",
+  "extractor_version": 3,
+  "url": "https://tsisorg.com/index.php/BioQI/article/download/839/751",
+  "pdf_sha256": "0fbe9de526a32f7296136fdb52f1813f0fc4ef7ede3cdcc9b3a08d8a7c9780d1",
+  "page_count": 9,
+  "reference_start_page": 7,
+  "bibliography": [
+    {
+      "page": 7,
+      "text": "Acar, D.A.E., Zhao, Y., Matas, R., Mattina, M.,\nWhatmough, P. and Saber, V. (2021) Federated\nlearning\nbased\non\ndynamic\nregularization.\nProceedings of ICLR 2021.\nArivazhagan, M.G., Aggarwal, V., Singh, A.K. and\nChoudhary, S. (2019) Federated learning with\npersonalization\nlayers.\narXiv\npreprint\narXiv:1912.00818.\nBonawitz, K., Eichner, H., Grieskamp, W. et al. (2019)\nTowards federated learning at scale: A system\ndesign. Proceedings of MLSys 2019, pp. 374-388.\nCaldas, S., Duddu, S.M.K., Wu, P. et al. (2019) LEAF:\nA benchmark for federated settings. arXiv preprint\narXiv:1812.01097.\nCollins, L., Hassani, H., Mokhtari, A. and Shakkottai,\nS. (2021) Exploiting shared representations for\npersonalized federated learning. Proceedings of\nICML 2021, pp. 2089-2099.\nFallah, A., Mokhtari, A. and Ozdaglar, A. (2020)\nPersonalized federated learning with Moreau\nenvelopes. Advances in Neural Information\nProcessing Systems, 33, pp. 21394-21405.\nHsu, T.M.H., Qi, H. and Brown, M. (2019) Measuring\nthe effects of non-identical data distribution for\nfederated visual classification. arXiv preprint\narXiv:1909.06335.\nKairouz, P., McMahan, H.B., Avent, B. et al. (2021)\nAdvances and open problems in federated learning.\nFoundations and Trends in Machine Learning,\n14(1-2), pp. 1-210.\nKarimireddy, S.P., Kale, S., Mohri, M., Reddi, S.J.,\nStich, S.U. and Suresh, A.T. (2020) SCAFFOLD:\nStochastic controlled averaging for federated\nlearning. Proceedings of ICML 2020, pp.\n5132-5143.\nLi, Q., Diao, Y., Chen, Q. and He, B. (2022) Federated\nlearning on non-IID data silos: An experimental\nstudy. Proceedings of ICDE 2022, pp. 965-978.\nLi, T., Sahu, A.K., Zaheer, M., Sanjabi, M., Talwalkar,\nA. and Smith, V. (2020) Federated optimization in\nheterogeneous networks. Proceedings of MLSys\n2020, pp. 429-450.\nLi, T., Sahu, A.K., Talwalkar, A. and Smith, V. (2020)\nFederated learning: Challenges, methods, and\nfuture\ndirections.\nIEEE\nSignal\nProcessing\nMagazine, 37(3), pp. 50-60.\nMcMahan, H.B., Moore, E., Ramage, D., Hampson, S.\nand Arcas, B.A. (2017) Communication-efficient\n\n50\n\nlearning of deep networks from decentralized data.\nProceedings of AISTATS 2017, pp. 1273-1282.\nPollard, T.J., Johnson, A.E., Raffa, J.D., Celi, L.A.,\nMark, R.G. and Badawi, O. (2018) The eICU\nCollaborative Research Database. Scientific Data,\n5(1), 180178.\nReddi, S.J., Charles, Z., Zaheer, M. et al. (2021)\nAdaptive federated optimization. Proceedings of\nICLR 2021.\nSattler, F., Wiedemann, S., Muller, K.R. and Samek,\nW. (2020) Robust and communication-efficient\nfederated learning from non-IID data. IEEE\nTransactions on Neural Networks and Learning\nSystems, 31(9), pp. 3400-3413.\nSmith, V., Chiang, C.K., Sanjabi, M. and Talwalkar, A.\n(2017) Federated multi-task learning. Advances in\nNeural Information Processing Systems, 30, pp.\n4424-4434.\nWang, J., Liu, Q., Liang, H., Joshi, G. and Poor, H.V.\n(2020) Tackling the objective inconsistency\nproblem in heterogeneous federated optimization.\nAdvances in Neural Information Processing\nSystems, 33, pp. 7611-7623.\nWang, S., Tuor, T., Salonidis, T., Leung, K.K., Makaya,\nC., He, T. and Chan, K. (2019) Adaptive federated\nlearning in resource constrained edge computing\nsystems. IEEE Journal on Selected Areas in\nCommunications, 37(6), pp. 1205-1221.\nYang, Q., Liu, Y., Chen, T. and Tong, Y. (2019)\nFederated\nmachine\nlearning:\nConcept\nand\napplications. ACM Transactions on Intelligent\nSystems and Technology, 10(2), pp. 1-19.\nZhao, Y., Li, M., Lai, L., Suda, N., Civin, D. and\nChandra, V. (2018) Federated learning with non-IID\ndata. arXiv preprint arXiv:1806.00582.\n\nDeclarations\nFunding\nThis research was supported by the German\nFederal Ministry of Education and Research\n(BMBF) under grant 01IS22082 (FedOpt), the\nEstonian Research Council under grant PRG2618\n(DistributedML), and the Spanish Ministry of\nScience\nunder\ngrant\nPID2022-128842OB\n(FedHealth). Computational resources provided by\nHLRN Berlin, ETAIS, and BSC MareNostrum 5.\nThe funders had no role in study design, analysis,\nor manuscript preparation.\n\nConflict of Interest\nThe authors declare no conflicts of interest.\n\nData Availability Statement\nAll federated training code, partitioning scripts,\ncompression implementations, and evaluation\nresults are deposited in the Zenodo repository\n"
+    },
+    {
+      "page": 8,
+      "text": "Bio-QI journal\nISSN: 3117-7336 Vol: 2023, Issues: Issue2, 2023\n\nunder DOI: 10.5281/zenodo.19614688. CIFAR-100\nand Stack Overflow are publicly available. eICU\nrequires credentialed access through PhysioNet.\nReleased under MIT License (code) and CC BY 4.0\n(results).\n\nEthical Approval\nThis study used publicly available datasets. eICU\naccess obtained through PhysioNet credentialing.\nNo patient data were collected or processed\nbeyond the de-identified eICU dataset. No\ninstitutional ethical approval was required beyond\nPhysioNet data use agreement.\n\n51\n\nhttps://stanfordgroup.org/index.php/BioQI/issue/archive\n"
+    },
+    {
+      "page": 9,
+      "text": "Bio-QI journal\n\nhttps://stanfordgroup.org/index.php/BioQI/issue/archive\n\nISSN: 3117-7336 Vol: 2023, Issues: Issue2, 2023\n"
+    }
+  ]
+}

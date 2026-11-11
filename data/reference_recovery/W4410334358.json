@@ -1,0 +1,23 @@
+{
+  "id": "W4410334358",
+  "title": "Research on the Resistance of the CE-FedAvg Scheme to Model Poisoning Attacks",
+  "no_indexed_refs": false,
+  "attempts": [
+    {
+      "url": "https://doi.org/10.12677/mos.2025.145390",
+      "result": "no accessible PDF or citation_pdf_url"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:13:00.109759+00:00",
+  "url": "https://pdf.hanspub.org/mos2025145_222572439.pdf",
+  "pdf_sha256": "1300a4b52ca74cd1d4756ec9d5df1d8fda57e6d520e31bcbc62c4269a5204022",
+  "extractor_version": 3,
+  "reference_start_page": 13,
+  "bibliography": [
+    {
+      "page": 13,
+      "text": "[1]\n\nMcMahan, B., Moore, E., Ramage, D., et al. (2017) Communication-Efficient Learning of Deep Networks from Decentralized Data. Proceedings of the 20th International Conference on Artificial Intelligence and Statistics (AISTATS), Fort\nLauderdale, 20-22 April 2017, 1273-1282.\n\n[2]\n\nYang, Q., Liu, Y., Chen, T. and Tong, Y. (2019) Federated Machine Learning. ACM Transactions on Intelligent Systems\nand Technology, 10, 1-19. https://doi.org/10.1145/3298981\n\n[3]\n\nMills, J., Hu, J. and Min, G. (2020) Communication-Efficient Federated Learning for Wireless Edge Intelligence in IoT.\nIEEE Internet of Things Journal, 7, 5986-5994. https://doi.org/10.1109/jiot.2019.2956615\n\n[4]\n\n肖雄, 唐卓, 肖斌, 等. 联邦学习的隐私保护与安全防御研究综述[J]. 计算机学报, 2023, 46(5): 1019-1044.\n\n[5]\n\n赵亚茹, 张建标, 曹益皓, 等. 云边联邦学习系统下抗投毒攻击的防御方法[J/OL]. 软件学报, 1-21.\nhttps://doi.org/10.13328/j.cnki.jos.007266, 2025-03-15.\n\n[6]\n\nCao, X. and Gong, N.Z. (2022) MPAF: Model Poisoning Attacks to Federated Learning Based on Fake Clients. 2022\nIEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), New Orleans, 19-20 June\n2022, 3395-3403. https://doi.org/10.1109/cvprw56347.2022.00383\n\n[7]\n\nBhagoji, A.N., Chakraborty, S., Mittal, P., et al. (2019) Analyzing Federated Learning through an Adversarial Lens.\n2019 International Conference on Machine Learning, Long Beach, 10-15 June 2019, 634-643.\n\n[8]\n\nFang, M., Cao, X., Jia, J., et al. (2020) Local Model Poisoning Attacks to {Byzantine-Robust} Federated Learning. 2020\n29th USENIX Security Symposium (USENIX Security 20), Boston, 12-14 August 2020, 1605-1622.\n\n[9]\n\nBagdasaryan, E., Veit, A., Hua, Y., et al. (2020) How to Backdoor Federated Learning. 2020 International Conference on\nArtificial Intelligence and Statistics, Online, 26-28 August 2020, 2938-2948.\n\n[10]\n\nXie, C., Huang, K., Chen, P.Y., et al. (2019) DBA: Distributed Backdoor Attacks against Federated Learning. 2019 International Conference on Learning Representations, New Orleans, 6-9 May 2019.\n\n[11]\n\nBaruch, G., Baruch, M. and Goldberg, Y. (2019) A Little Is Enough: Circumventing Defenses for Distributed Learning.\nProceedings of the 33rd International Conference on Neural Information Processing Systems, Vancouver, 8 December\n2019, 8635-8645.\n\n[12]\n\nZhang, D., Yang, J., Ye, D. and Hua, G. (2018) LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep\nNeural Networks. In: Lecture Notes in Computer Science, Springer, 373-390.\nhttps://doi.org/10.1007/978-3-030-01237-3_23\n\n[13]\n\nBanner, R., Nahshan, Y. and Soudry, D. (2019) Post Training 4-Bit Quan‐Tization of Convolutional Networks for Rapid\nDeployment. Advances in Neural Information Processing Systems, 32, 7948-7956.\n\n[14]\n\n陈晋音, 曹志骐, 郑海斌, 等. 面向模型量化的安全性研究综述[J/OL]. 小型微型计算机系统, 1-23.\nhttp://kns.cnki.net/kcms/detail/21.1106.tp.20250117.1440.018.html, 2025-03-15.\n\nDOI: 10.12677/mos.2025.145390\n\n258\n\n建模与仿真\n"
+    }
+  ]
+}

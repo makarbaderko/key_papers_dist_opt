@@ -1,0 +1,338 @@
+﻿id,title,status,no_indexed_refs,url,pdf_sha256,reference_start_page,attempts
+W1571416372,EXTRA: An Exact First-Order Algorithm for Decentralized Consensus Optimization,bibliography_extracted,0,https://arxiv.org/pdf/1404.6264,842581cd8cfef8689797fc69a1285f35821ca7914a214e6427b8e666b7b4e860,23,1
+W1616857247,On the Convergence of Decentralized Gradient Descent,bibliography_extracted,0,https://arxiv.org/pdf/1310.7063,ea6000730a027e70091e1a7aff8abc1562e40dee9c1977055b042a6c108ef0ad,20,1
+W2116612304,Federated Optimization:Distributed Optimization Beyond the Datacenter,bibliography_extracted,0,https://arxiv.org/pdf/1511.03575,eab5573db8f78706582966759753c29772a4da35628b55f1ea00ed864717b440,5,1
+W2199097987,Distributed optimization with arbitrary local solvers,bibliography_extracted,0,https://arxiv.org/pdf/1512.04039,f368a4618b1c5d573894d6646a1fe4f5c5dc2e83e26a633e9241f0aa5e421245,27,2
+W2421443610,Federated optimisation of kinetic analysis problems,unavailable,0,,,,1
+W2530417694,Federated Optimization: Distributed Machine Learning for On-Device Intelligence,bibliography_extracted,0,https://arxiv.org/pdf/1610.02527,4a174fcfb0eb1b015d1d48cb627546d8b37bc471241fb0e5c824614687b02a74,26,1
+W2541884796,Communication-Efficient Learning of Deep Networks from Decentralized Data,bibliography_extracted,0,https://arxiv.org/pdf/1602.05629,2faf5593d9db413dee96a9be6ab9527cb0413b34fd5024aa60db3a5ad5795384,9,1
+W2729686365,"Stochastic, Distributed and Federated Optimization for Machine Learning",bibliography_extracted,0,https://arxiv.org/pdf/1707.01155,1f51210f4324ffae09a5882b7d40ea9968cc433e017612f1bfd3c995b64eddb8,167,1
+W2765170276,Asynchronous Decentralized Parallel Stochastic Gradient Descent,bibliography_extracted,0,https://arxiv.org/pdf/1710.06952,39697d53ecadbb7b822c7276604a079bbe3b55721f6fe52dfb72fe06648890a4,14,1
+W2803867449,Local SGD Converges Fast and Communicates Little,bibliography_extracted,0,https://arxiv.org/pdf/1805.09767,98fb2c50800106cb84fe8204a022eda78264a84c66c3f16fe2e5f94dd23cd85c,10,1
+W2888206291,"Don't Use Large Mini-Batches, Use Local SGD",bibliography_extracted,0,https://arxiv.org/pdf/1808.07217,b520f48bd682ae06bf9ee1d9a0574f37776ec272d1d6678d1d27ae25a0ae8951,10,0
+W2896404430,Adaptive Communication Strategies to Achieve the Best Error-Runtime Trade-off in Local-Update SGD,bibliography_extracted,0,https://arxiv.org/pdf/1810.08313,cdc7739d79027cb7d18f2b1e95324b4eeb887aa0cad67db802dc825ec28b3653,11,0
+W2911327153,Decentralized Stochastic Optimization and Gossip Algorithms with Compressed Communication,bibliography_extracted,0,https://arxiv.org/pdf/1902.00340,0300834e51175be4e14af2f4bd9325c95a90539cbd45b0dde0b8521b7831bf10,14,1
+W2914328083,Federated Optimization in Heterogeneous Networks,bibliography_extracted,0,https://arxiv.org/pdf/1812.06127,c632b05c41d8f8c3f9126d230e7195e5470e2a555a823df1adba7d9e839ea9f2,11,0
+W2921434559,Asynchronous Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/1903.03934,1abf60653028c8753f6396e6b579c6902c3d7057a9890dfd5bf73e904cac0402,6,1
+W2945433804,Properties of federated averaging on highly distributed data,unavailable,0,,,,1
+W2948092338,"Qsparse-Local-SGD: Distributed SGD With Quantization, Sparsification, and Local Computations",unavailable,0,,,,1
+W2955213239,On the Convergence of FedAvg on Non-IID Data,bibliography_extracted,0,https://arxiv.org/pdf/1907.02189,c349cd6beab494fa5b21bee26e54b91fac4c42bf940d87f2b2c27bd49fbaf4f1,9,1
+W2963228337,Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent,bibliography_extracted,0,https://arxiv.org/pdf/1705.09056,6a82789df3f614f98719d10ab238db13fc364b339c9d33f0d19ad01d232006e4,16,1
+W2970020383,Local SGD with Periodic Averaging: Tighter Analysis and Adaptive Synchronization,bibliography_extracted,0,https://arxiv.org/pdf/1910.13598,dcdbf4f5af9b81ff4473517986b76f19ffaec9b50ac02f48b3c123c553d17a61,10,1
+W2972766729,Better Communication Complexity for Local SGD,unavailable,0,,,,1
+W2975043678,FedPAQ: A Communication-Efficient Federated Learning Method with Periodic Averaging and Quantization,bibliography_extracted,0,https://arxiv.org/pdf/1909.13014,e026d09ac4109abe6c484cd9e95929e7f2ccc5fc132c12ec1a92901afb1b4944,9,1
+W2977814456,Clustered Federated Learning: Model-Agnostic Distributed Multitask Optimization Under Privacy Constraints,bibliography_extracted,0,https://ieeexplore.ieee.org/ielx7/5962385/9505270/09174890.pdf,9efbd3e6654f4fb54db024ed781be465497d19db92170c35894d9abd0361acc8,12,1
+W2982654255,On the Convergence of Local Descent Methods in Federated Learning,bibliography_extracted,0,https://arxiv.org/pdf/1910.14425,67a9dd19befa6f7c5f5590e281a7c15036f58e6335cb7a1f6e8ccd9a8c6b97c7,17,1
+W2989763744,Communication trade-offs for Local-SGD with large step size,bibliography_extracted,0,https://papers.nips.cc/paper/2019/file/4aadd661908b181d059a117f02fbc9ec-Paper.pdf,879105bc472e0a010c52b9cb163cecfa4cdd1e36bbb212cafff476883dc0681b,10,1
+W2991209658,Local AdaAlter: Communication-Efficient Stochastic Gradient Descent with Adaptive Learning Rates,bibliography_extracted,0,https://arxiv.org/pdf/1911.09030,5bc11b3d51f52cf3636e454ec38dc7e8679f446f1f563b2096cd423e351adbb9,7,1
+W2994684563,Federated Meta-Learning with Fast Convergence and Efficient Communication,bibliography_extracted,0,https://arxiv.org/pdf/1802.07876,4deafe0b792fa6c8795148c37a5969b86d31ab3dbc08eec78233400ef7c16c1e,10,1
+W2996442797,Variance Reduced Local SGD with Lower Communication Complexity,bibliography_extracted,0,https://arxiv.org/pdf/1912.12844,6f2e97dffb3ac1bcafead5e8c014a6e5dd84b5f555ffbb29b4fc72d336587a5d,9,1
+W2996736801,Federated Learning with Matched Averaging,bibliography_extracted,0,https://arxiv.org/pdf/2002.06440,5d709a4b2d3eb8debb03cb860f0a906cf570802f9b690a5ca73b863d9a3988db,10,0
+W3001825675,Tighter Theory for Local SGD on Identical and Heterogeneous Data,bibliography_extracted,0,https://arxiv.org/pdf/1909.04746,1bd76e31fc3a105b415faa24e3527c33de1c7f6fde32540db950bcd836e6a387,9,1
+W3005503558,Faster On-Device Training Using New Federated Momentum Algorithm,bibliography_extracted,0,https://arxiv.org/pdf/2002.02090,8219beaae98ab39eb3a6e356075dc31df1aa62dd6eec86b243c62a8145e5373c,11,1
+W3006555759,SCAFFOLD: Stochastic Controlled Averaging for Federated Learning,bibliography_extracted,0,https://arxiv.org/pdf/1910.06378,efe06c86acc7a06116e372a7ab6386c300f4d0dc9c7ba2dd5c82e95111a1d694,9,1
+W3007279825,Accelerating Federated Learning via Momentum Gradient Descent,bibliography_extracted,0,https://arxiv.org/pdf/1910.03197,99ee2849c2e48bb2c8355dcb8307b23b338d55a42c7b4b473826d22877941663,11,1
+W3007385749,Communication-Efficient Local Decentralized SGD Methods,bibliography_extracted,0,https://arxiv.org/pdf/1910.09126,640c795da6d0f7adb092d328f818b0b49516c702a803384e06e924ab58a64631,9,1
+W3007403887,Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2002.11364,8d06b986eb0d5fab5dbd1af2893d37339ed5992acd5327fc7f9c67bfc05dca35,9,1
+W3008187686,Adaptive Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2003.00295,f3a0fd541ea39d3bfd7a3f761ee17146905d92b0e0899b4d5a7041306b80043b,10,0
+W3012576858,A Unified Theory of Decentralized SGD with Changing Topology and Local Updates,bibliography_extracted,0,https://arxiv.org/pdf/2003.10422,3af39f52e161605495a1356ce0e85fb0d34a5cf265432156eab04ede00859835,10,1
+W3014541599,Inverting Gradients -- How easy is it to break privacy in federated learning?,bibliography_extracted,0,https://arxiv.org/pdf/2003.14053,6509ccbc98c47010f588f0644d37f91d4d0f08d4bd1e9524e954fe4d9737862d,9,1
+W3015585426,Overlap Local-SGD: An Algorithmic Approach to Hide Communication Delays in Distributed SGD,unavailable,0,,,,1
+W3019609389,Federated learning with hierarchical clustering of local updates to improve training on non-IID data,bibliography_extracted,0,https://arxiv.org/pdf/2004.11791,4ce955bfc79cb565ee23a969cd4f434d5f50c56376ad459c4bf635076e84b62a,8,1
+W3021861822,FedSplit: An algorithmic framework for fast federated optimization,bibliography_extracted,0,https://arxiv.org/pdf/2005.05238,5a2a98b4b4c4192d2e5b815b132164644e9e85aa966156d3010f5cc6470cdb1b,25,1
+W3033462932,Minibatch vs Local SGD for Heterogeneous Distributed Learning,bibliography_extracted,0,https://arxiv.org/pdf/2006.04735,84cf9a69e983ac6df6209703a99fc0b7f5118dbf1f7f16348b6fbbbf789d82d0,11,1
+W3034013096,Local SGD With a Communication Overhead Depending Only on the Number of Workers,bibliography_extracted,0,https://arxiv.org/pdf/2006.02582,72b0f04d0b841bdf74ad0e5dea21c84529f97cf6cfc9928461cde2746752d0e3,9,1
+W3034553394,A Unified Analysis of Stochastic Gradient Methods for Nonconvex Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2006.07013,e9ab7a9dd3050a23696103c2826aafd5a9e10e7fc44cd465c22364cc7517b54e,14,1
+W3034749587,Federated Accelerated Stochastic Gradient Descent,bibliography_extracted,0,https://arxiv.org/pdf/2006.08950,2d4f5fd1c7bb39856bbe6b574a9f09521f757f765c3b1a0507b92e753f0e0365,12,1
+W3035199578,STL-SGD: Speeding Up Local SGD with Stagewise Communication Period,bibliography_extracted,0,https://ojs.aaai.org/index.php/AAAI/article/download/17153/16960,090a73101842d53a43fcc43fea206ad10d639fc533750f0e87c55361d9ac9104,8,1
+W3035353486,From Local SGD to Local Fixed Point Methods for Federated Learning,bibliography_extracted,0,https://arxiv.org/pdf/2004.01442,e3aad2addc63d7cedf19fde14a267f49883eb90e9c5b7844ba38549dfc965ae2,8,1
+W3035507578,Is Local SGD Better than Minibatch SGD?,bibliography_extracted,0,https://arxiv.org/pdf/2002.07839,ddc766c29a975a5ba5414f28592dfec7e2db17ab0178cc420c28cf1a4ae8367d,10,1
+W3038057116,MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling,bibliography_extracted,0,https://arxiv.org/pdf/1905.09435,afc63eca4b54f0beb4f8517410862a71c7a5a24ace617a14908105c0bfff33cb,9,1
+W3039258010,On the Outsized Importance of Learning Rates in Local Update Methods,bibliography_extracted,0,https://arxiv.org/pdf/2007.00878,3b317d3f01b9af73ba9202e433d4dc25b07bd5939a5239ca5dd15e3d1e8163a8,65,1
+W3043574444,FetchSGD: Communication-Efficient Federated Learning with Sketching,bibliography_extracted,0,https://arxiv.org/pdf/2007.07682,f1d2d108abc649860b58f83d82b414f7a525da9b85c5dae09625c5b80a5e18f0,10,1
+W3045593451,Multi-Level Local SGD for Heterogeneous Hierarchical Networks,bibliography_extracted,0,https://arxiv.org/pdf/2007.13819,b7fbc95aab14e9ff3de833d411ef7f86b1d7e432b0687b5c6eebe6be06cca9c9,10,3
+W3046178819,Communication-Efficient Federated Learning via Optimal Client Sampling,bibliography_extracted,0,https://research.latinxinai.org/papers/icml/2020/pdf/Poster_Monica_Ribero.pdf,a91e5978c2af62e63bda0d785a6a30fa13c7e39f009acbebbb051e29c6913e26,4,1
+W3046449784,Federated Variance-Reduced Stochastic Gradient Descent With Robustness to Byzantine Attacks,bibliography_extracted,0,https://arxiv.org/pdf/1912.12716,4e111043300dbc26b72eb78a74773a52c203cca89acb287657b7676aab2a6aa3,10,1
+W3047304572,Optimizing Federated Learning on Non-IID Data with Reinforcement Learning,unavailable,0,,,,1
+W3083191143,HLSGD Hierarchical Local SGD With Stale Gradients Featuring.,bibliography_extracted,0,https://arxiv.org/pdf/2009.02701,bfed9f3a66f2a0114df71398e50ad3ab4c9a9927cd08b5c2f82f4fe7264625ec,11,2
+W3089426191,Client Selection in Federated Learning: Convergence Analysis and Power-of-Choice Selection Strategies,bibliography_extracted,0,https://arxiv.org/pdf/2010.01243,14e159d59131ac75230587db8988d654fbc19bc731b02ed3183478673c8658f1,9,1
+W3092408317,Lower Bounds and Optimal Algorithms for Personalized Federated Learning,bibliography_extracted,0,https://arxiv.org/pdf/2010.02372,e2fa8c01bfd631ff4f16e0f18c391cfccd07ea2f705a8c24e34f0e82ffc150b3,11,1
+W3093809760,Secure Federated Averaging Algorithm with Differential Privacy,unavailable,0,,,,1
+W3094031457,Local SGD for Saddle-Point Problems.,bibliography_extracted,1,https://arxiv.org/pdf/2010.13112v1,b6d11fdb3df19326d8b79c81dcba5d6960a2ce6bc2e3bfa9172066575420a757,4,1
+W3097786801,Local SGD: Unified Theory and New Efficient Methods,bibliography_extracted,0,https://arxiv.org/pdf/2011.02828,88cc86cecdc711df5a714af0218f848c6dcd3207d4e0d94e316b093551e19718,9,1
+W3101724202,Communication-Efficient Decentralized Local SGD over Undirected Networks,unavailable,0,,,,1
+W3104015155,Distributionally Robust Federated Averaging,bibliography_extracted,0,https://arxiv.org/pdf/2102.12660,f5913dd153f9b7912c11f64914a110f0ffcdcab013edc22b47a6ce62002ed0fc,10,1
+W3108590825,One-Bit Over-the-Air Aggregation for Communication-Efficient Federated Edge Learning: Design and Convergence Analysis,bibliography_extracted,0,https://arxiv.org/pdf/2001.05713,8e4ca095e27f30714e381bc6d9d022e29a7e0e1fdbfd36bc4b6908e8f08800f2,14,2
+W3117700364,Empirical Convergence Analysis of Federated Averaging for Failure Prognosis,unavailable,0,,,,1
+W3122382780,Multi-Level Local SGD: Distributed SGD for Heterogeneous Hierarchical Networks,unavailable,0,,,,1
+W3122584554,Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms,bibliography_extracted,0,https://arxiv.org/pdf/2010.05273,83cc4eca29b571da055e43170e4f515e35f7b00ba54be041355c5f247d4bdc60,9,0
+W3126083338,Federated Learning Based on Dynamic Regularization,bibliography_extracted,0,https://arxiv.org/pdf/2111.04263,cd184ec8854905152fd92b4996f74ccf8335aaf3158914d1ece2e7705f0238a8,10,0
+W3127454023,A Weighted Federated Averaging Framework to Reduce the Negative Influence from the Dishonest Users,unavailable,0,,,,1
+W3129097267,Bias-Variance Reduced Local SGD for Less Heterogeneous Federated Learning,bibliography_extracted,0,https://arxiv.org/pdf/2102.03198,a9c9c3be53076666328c031183e8309483b36b22e269a8e951cc91870f5dc6f5,9,1
+W3130710521,Delay-Tolerant Local SGD for Efficient Distributed Training,bibliography_extracted,1,https://openreview.net/references/pdf?id=1wYPEyr9YQ,cc339547ec500ca96ee1291dfb1a23ca695bffb9ddd776c32169037c35511d4c,9,1
+W3130968919,Faster Federated Learning With Decaying Number of Local SGD Steps,unavailable,0,,,,1
+W3131880614,Local SGD Meets Asynchrony,unavailable,1,,,,2
+W3132575741,Faster Non-Convex Federated Learning via Global and Local Momentum,bibliography_extracted,0,https://arxiv.org/pdf/2012.04061,ca50c342fcc78ace9c8260d619f382b930438159f0105707f59e6719706229cf,14,1
+W3133335616,Federated Averaging as Expectation Maximization,unavailable,1,,,,1
+W3134165197,Local Stochastic Gradient Descent Ascent: Convergence Analysis and Communication Efficiency,bibliography_extracted,0,https://arxiv.org/pdf/2102.13152,4e878b7761337ab9e2243e2c33db5c97bd01b4319da08319be1c7054c025f782,9,1
+W3136347532,Communication-Efficient Local Stochastic Gradient Descent for Scalable Deep Learning,unavailable,0,,,,1
+W3146812040,Joint Optimization of Communications and Federated Learning Over the Air,unavailable,0,,,,1
+W3152624284,P-FedAvg: Parallelizing Federated Learning with Theoretical Guarantees,unavailable,0,,,,1
+W3152841279,Auto-FedAvg: Learnable Federated Averaging for Multi-Institutional Medical Image Segmentation,bibliography_extracted,0,https://arxiv.org/pdf/2104.10195,dc1245174d2b180d242d84186090f2f9265e2f1a893c12a122fc21bd1cc6505a,9,1
+W3153875449,Gradient Masked Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2104.10322,cdf63ff855fe704991546bfcce603aab0c283c7f062d8def363bb8bf4d15d69f,5,0
+W3158567365,Decentralized Federated Averaging,unavailable,0,,,,1
+W3169689529,Federated Composite Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2011.08474,393df62655751168491a6253e989d52b10d7c337e5f38e448b01b8e5aeb8e61d,15,1
+W3170752158,UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem,unavailable,0,,,,1
+W3170906335,Communication-efficient SGD: From Local SGD to One-Shot Averaging,bibliography_extracted,0,https://arxiv.org/pdf/2106.04759,823469356965c5c529d633ac682e0aed36b66d346fcb8e434bd3ca1d2a9d1f0c,11,1
+W3171909398,Federated Learning for Image Classification Using Federated Averaging Algorithm,unavailable,0,,,,1
+W3176174985,On the Convergence of Communication-Efficient Local SGD for Federated Learning,bibliography_extracted,0,https://ojs.aaai.org/index.php/AAAI/article/download/16920/16727,138cea443daf68e7926cd54ef93c8de1299c2a685b1435036a910e45872bd8fe,8,1
+W3176364684,Communication-Efficient Federated Learning With Compensated Overlap-FedAvg,unavailable,0,,,,1
+W3183596499,Federated Optimization Based on Compression and Event-triggered Communication,unavailable,0,,,,1
+W3184387346,Local SGD Optimizes Overparameterized Neural Networks in Polynomial Time,bibliography_extracted,0,https://arxiv.org/pdf/2107.10868,ec112d50f3307c9fc63a2f1b82122836c9387a147420b7ec43397078301dd68a,9,1
+W3194243671,Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2007.07481,bac4fb0a3969ccb62c9b4d8b1a60b6ec51aea258a44139fad43f4e729037c6e4,11,1
+W3195296996,Byzantine Fault-Tolerance in Federated Local SGD Under $2f$-Redundancy,unavailable,0,,,,1
+W3197052828,Statistical Estimation and Inference via Local SGD in Federated Learning,bibliography_extracted,0,https://arxiv.org/pdf/2109.01326,e0246277edb4f80c9d4be0f5c83f18aa0d9d17ae91aef32af2f87a5e4e99ae09,18,1
+W3197072507,Linear Convergence in Federated Learning: Tackling Client Heterogeneity and Sparse Gradients,bibliography_extracted,0,https://arxiv.org/pdf/2102.07053,d0ec0e5a411dbe9cba9a77f2962c9a7ebe53a1134e6dcb9d6dbf8b83831e0459,20,1
+W3197345550,Communication-Efficient Agnostic Federated Averaging,bibliography_extracted,0,https://www.isca-archive.org/interspeech_2021/ro21_interspeech.pdf,0bd71a038cc1c3a9594045fd57fff3355a8b1489a91e89c92ec2bd32db7ca379,5,1
+W3200470696,Subspace Learning for Personalized Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2109.07628,bdb7a4f324e398b024ddca3ac3044c0985e8171408bdcabd6a884991e8179f54,8,2
+W3205564238,Cooperative SGD: A Unified Framework for the Design and Analysis of Local-Update SGD Algorithms,bibliography_extracted,1,https://jmlr.org/papers/volume22/20-147/20-147.pdf,f2f7503cd5358a79d4eccf18e694ba6f3cdf6e789a4f918c7620f0e53e0c4ba9,45,1
+W3206218057,Trade-offs of Local SGD at Scale: An Empirical Study,bibliography_extracted,0,https://arxiv.org/pdf/2110.08133,4132e3d610a4b75fc9bbb3ce41c18495ceffa0115c78b1f81aaea8bc58785a55,12,1
+W3206219838,Minibatch vs Local SGD with Shuffling: Tight Convergence Bounds and Beyond,bibliography_extracted,0,https://arxiv.org/pdf/2110.10342,2a778d49d3e04fc95c6961ac7229b52594909e96faaf99e46e5b022c98d4e709,10,0
+W3213161637,Transmission Power Control for Over-the-Air Federated Averaging at Network Edge,unavailable,0,,,,1
+W3213988359,Distribution-Aware Weight Compression for Federated Averaging Learning Over Wireless Edge Networks,unavailable,0,,,,1
+W3214289948,Sharp Bounds for Federated Averaging (Local SGD) and Continuous Perspective,bibliography_extracted,0,https://arxiv.org/pdf/2111.03741,43edbc217a1afd01fe65d6cb49eacc23797b3bd3e011aaa2f24b7c9ac2e592a5,12,1
+W3216403490,Secure verifiable aggregation for blockchain-based federated averaging,unavailable,0,,,,1
+W4200029701,Federated optimization via knowledge codistillation,unavailable,0,,,,1
+W4200228788,Communication cost reduction using sparse ternary compression and encoding for FedAvg,unavailable,0,,,,1
+W4200402034,AGI-Fedavg: A UAV Power Line Inspection Algorithm Based on Federated Learning,unavailable,0,,,,1
+W4206342786,Robust Federated Averaging via Outlier Pruning,unavailable,0,,,,1
+W4214819699,FLSGD: free local SGD with parallel synchronization,unavailable,0,,,,1
+W4221125818,Centralized Machine Learning Versus Federated Averaging: A Comparison using MNIST Dataset,unavailable,0,,,,2
+W4221148781,Faster Convergence of Local SGD for Over-Parameterized Models,bibliography_extracted,0,https://arxiv.org/pdf/2201.12719,4975938c82711f73cdee6dcf4056bbdaa28bf73fff4444de20f0d7adbca63b3a,3,1
+W4221151288,ImageNet Challenging Classification with the Raspberry Pi: An Incremental Local Stochastic Gradient Descent Algorithm,bibliography_extracted,0,https://arxiv.org/pdf/2203.11853,86103ed4f992150370d2deae8c18a1d11278ab67fbe1a1bbc06eb56a39785f23,10,1
+W4225821859,Projected federated averaging with heterogeneous differential privacy,unavailable,0,,,,1
+W4226405495,On Convergence of Federated Averaging Langevin Dynamics,bibliography_extracted,0,https://arxiv.org/pdf/2112.05120,09710b5c422c158bb7d812d67e17d939070919a181054ed42493b38e3e41a782,13,1
+W4255357279,Depression Detection Using Asynchronous Federated Optimization,unavailable,0,,,,1
+W4282813193,On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data,bibliography_extracted,0,https://arxiv.org/pdf/2206.04723,c8ab5c268d7db9b421b668e83ca60d6c21a53d2be64f9b152ae613d367c4ee02,10,1
+W4282967347,Federated Optimization Algorithms with Random Reshuffling and Gradient Compression,bibliography_extracted,0,https://arxiv.org/pdf/2206.07021,60bc3a62174a486f84d2e0a932918e6ae827529c7142a4aa283be5304b6f50c2,13,1
+W4283325546,Intelligent depression detection with asynchronous federated optimization,unavailable,0,,,,2
+W4283332162,FedSSO: A Federated Server-Side Second-Order Optimization Algorithm,bibliography_extracted,0,https://arxiv.org/pdf/2206.09576,4b8c783a1e13cdafd3d8555f498df50e40bdfb568330604a3ff7fd21bdc2b5ea,7,1
+W4285079201,Federated Transfer Learning for Bearing Fault Diagnosis With Discrepancy-Based Weighted Federated Averaging,unavailable,0,,,,1
+W4285101059,N-FedAvg: Novel Federated Average Algorithm Based on FedAvg,unavailable,0,,,,1
+W4285124471,Client-Side Optimization Strategies for Communication-Efficient Federated Learning,unavailable,0,,,,1
+W4285290289,Communication-Efficient Federated Indoor Localization with Layerwise Swapping Training-FedAvg,bibliography_extracted,0,https://www.jstage.jst.go.jp/article/transfun/E105.A/11/E105.A_2022EAP1004/_pdf,a81f14d7a0fdb17382b2bc77d42bb1c0265796167adc70bb157eed5a677a553d,9,1
+W4287111101,A Non-parametric View of FedAvg and FedProx: Beyond Stationary Points,bibliography_extracted,0,https://arxiv.org/pdf/2106.15216,d7b350b143f43386a63729a89c1bf296600c6133a88a52218ece25b2567793c7,20,1
+W4289655089,Optimizing Federated Averaging over Fading Channels,unavailable,0,,,,1
+W4290790929,Accelerating local SGD for non-IID data using variance reduction,unavailable,0,,,,1
+W4294959742,Faster federated optimization under second-order similarity,bibliography_extracted,0,https://arxiv.org/pdf/2209.02257,e85b92ade2d5b539136dad2ff513a2bff9dff54c97c5e26b900dc9d5a2859aff,12,1
+W4295062703,Federated Optimization of ℓ0-norm Regularized Sparse Learning,unavailable,0,,,,2
+W4296252055,Bearing Fault Diagnosis of Wind Motor Based on Shared-FedAvg with Non-IID Data,unavailable,0,,,,1
+W4308014763,Federated Averaging Langevin Dynamics: Toward a unified theory and new algorithms,bibliography_extracted,0,https://arxiv.org/pdf/2211.00100,ca299b550e4ad857a16d3f03fc63c29993973d865412104756db149fd597c757,9,1
+W4309805139,SIFU: Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2211.11656,05916cca8d1e0410ade983d17347d6fcf4a4a0eca279d34ecb6799592efaa4f9,10,1
+W4310378596,A General Theory for Federated Optimization with Asynchronous and Heterogeneous Clients Updates,bibliography_extracted,1,https://arxiv.org/pdf/2206.10189,b239a07f68e588c4c8157443f8d81f973098bd6789c804ae81a59b4557bba452,29,1
+W4311087319,ARFED: Attack-Resistant Federated averaging based on outlier elimination,unavailable,0,,,,1
+W4312978730,Optimized Power Control for Over-the-Air Federated Averaging With Data Privacy Guarantee,unavailable,0,,,,1
+W4313045565,ImageNet Challenging Classification with the Raspberry Pis: A Federated Learning Algorithm of Local Stochastic Gradient Descent Models,unavailable,0,,,,1
+W4316813716,LoSAC: An Efficient Local Stochastic Average Control Method for Federated Optimization,unavailable,0,,,,2
+W4317951255,FedExP: Speeding Up Federated Averaging via Extrapolation,bibliography_extracted,0,https://arxiv.org/pdf/2301.09604,5d5d6dce49157a75ed0e2e6adfa7c8414f4b2d1f59babd5949a86e786585ecc5,10,0
+W4318189468,FedHybrid: A Hybrid Federated Optimization Method for Heterogeneous Clients,unavailable,0,,,,1
+W4318355334,EB-FedAvg: Personalized and Training Efficient Federated Learning with Early-Bird Tickets,unavailable,0,,,,1
+W4319323414,Gradient and Variable Tracking with Multiple Local SGD for Decentralized Non-Convex Learning,bibliography_extracted,0,https://arxiv.org/pdf/2302.01537,7f162935b18c341edc0b12c229227d9456b4fd64d187d00cf1eb377a031808b9,44,1
+W4319653418,On the Convergence of Federated Averaging with Cyclic Client Participation,bibliography_extracted,0,https://arxiv.org/pdf/2302.03109,e5510e2e12db3663b175bab472ddf2c311a0aa80380674895e858bfb4193b14a,13,1
+W4319653959,Federated Learning with Regularized Client Participation,bibliography_extracted,0,https://arxiv.org/pdf/2302.03662,525090a8913371124be858469ca06a382d1627b654650f391e62b591102f2c01,9,1
+W4320067920,Aperiodic Local SGD: Beyond Local SGD,unavailable,0,,,,1
+W4321021378,Es-Fedavg: Early-Exit Personalized Federated Learning with Sparse Weight for Adaptive Computation,unavailable,1,,,,1
+W4323076345,Why (and When) does Local SGD Generalize Better than SGD?,bibliography_extracted,0,https://arxiv.org/pdf/2303.01215,e8fd7a7c9fb46a2ab7078fea878680cf51776f9c0e4da50be2b6e566eeb32bb2,13,0
+W4324291879,From Deterioration to Acceleration: A Calibration Approach to Rehabilitating Step Asynchronism in Federated Optimization,unavailable,0,,,,1
+W4361273758,Communication-efficient local SGD with age-based worker selection,unavailable,0,,,,1
+W4362511720,Benchmarking FedAvg and FedCurv for Image Classification Tasks,bibliography_extracted,0,https://arxiv.org/pdf/2303.17942,5c05816d2c3018dcc4d50da6c70a7f9c9c51b302a9203c36e112af2955f8faba,10,1
+W4362519703,A two-stage federated optimization algorithm for privacy computing in Internet of Things,unavailable,0,,,,1
+W4378465234,Local SGD Accelerates Convergence by Exploiting Second Order Information of the Loss Function,bibliography_extracted,0,https://arxiv.org/pdf/2305.15013,d0646c6adeb99303fe20fb484e672670163f394a2389594e247ebdb99d0835b0,10,1
+W4379618860,A Communication-Efficient Local Differentially Private Algorithm in Federated Optimization,bibliography_extracted,0,https://ieeexplore.ieee.org/ielx7/6287639/10005208/10145452.pdf,49150f7e6698e7ce8a5edefa325fc4d3521aac4efa14dfcfbaf5a55e3dc79e32,13,1
+W4379924353,A Lightweight Method for Tackling Unknown Participation Statistics in Federated Averaging,bibliography_extracted,0,https://arxiv.org/pdf/2306.03401,ed97cd1eae6ab6f0354be194644896cb080bcd71df8e47d2f5b94dea00bb6b62,10,0
+W4380077327,Understanding a Class of Decentralized and Federated Optimization Algorithms: A Multirate Feedback Control Perspective,unavailable,0,,,,1
+W4381805586,DATA-FedAVG: Delay-Aware Truncated Accuracy-Based Federated Averaging for Intrusion Detection in UAV Network,bibliography_extracted,1,https://journal.kics.or.kr/digital-library/manuscript/file/50676/03%20%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A2%E1%84%86%E1%85%B5%E1%86%AB202304-073-B-RU.pdf,7132688150f07b248e881043bfdb45b3dd36705487bbab833245f164016eb4af,17,1
+W4383315210,Explore deep reinforcement learning for efficient task processing based on federated optimization in big data,unavailable,0,,,,1
+W4385413742,CC-FedAvg: Computationally Customized Federated Averaging,unavailable,0,,,,1
+W4385630289,The role of local steps in local SGD,unavailable,0,,,,1
+W4385840474,Computation and Communication Efficient Adaptive Federated Optimization of Federated Learning for Internet of Things,unavailable,0,,,,2
+W4385956621,FPPFL: FedAVG-based Privacy-Preserving Federated Learning,unavailable,0,,,,2
+W4385965758,Stochastic Controlled Averaging for Federated Learning with Communication Compression,bibliography_extracted,0,https://arxiv.org/pdf/2308.08165,b0358135e30769af7767eb29f729c3cb9feb7b2ef787bf746aa8b9739634ea34,22,3
+W4386066601,Elastic Aggregation for Federated Optimization,unavailable,0,,,,1
+W4386246415,Federated Optimization Under Intermittent Client Availability,unavailable,0,,,,1
+W4386828197,Federated Averaging Algorithm: An Analysis of Distributed Machine Learning,bibliography_extracted,0,https://engrxiv.org/preprint/download/3233/5864/4645,9de7fa8ebd97716c1eaef187c8722ec7f53ff6aa2da3bfd9705dadb84967a336,3,1
+W4386869584,Federated Optimization of Smooth Loss Functions,unavailable,0,,,,1
+W4386897176,Fedmpo : federated optimization based on multidimensional especially 3-dimensional proximal operator,unavailable,0,,,,1
+W4387225577,FedContrast-GPA: Heterogeneous Federated Optimization via Local Contrastive Learning and Global Process-Aware Aggregation,unavailable,0,,,,1
+W4387390046,Enhanced Federated Optimization: Adaptive Unbiased Client Sampling with Reduced Variance,bibliography_extracted,0,https://arxiv.org/pdf/2310.02698,8c08e6039dc5b45c5301a11c68df5f3aede095ec960ed8bde53b0e1279281f92,13,1
+W4387560075,On the Convergence of Federated Averaging under Partial Participation for Over-parameterized Neural Networks,unavailable,0,,,,3
+W4387713119,FedAvg-DWA: A Novel Algorithm for Enhanced Fraud Detection in Federated Learning Environment,unavailable,0,,,,1
+W4387870156,CL-SGD: Efficient Communication by Clustering and Local-SGD for Distributed Machine Learning,unavailable,0,,,,1
+W4388040673,Defending Federated Learning from Backdoor Attacks: Anomaly-Aware FedAVG with Layer-Based Aggregation,unavailable,0,,,,1
+W4388276049,Asynchronous SGD on Graphs: a Unified Framework for Asynchronous Decentralized and Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2311.00465,a028b2d05d466e871ee6a6aca95ff7cb4ec366e6b5760296d0738bc0b36c52d1,9,1
+W4388444540,Heterogeneous federated collaborative filtering using FAIR: Federated Averaging in Random Subspaces,bibliography_extracted,0,https://arxiv.org/pdf/2311.01722,5b7a02512eb13c11440b0a92e6fede18bf7fc3f0d41d5112bfe583895cd50e4a,10,0
+W4388677628,Federated Optimization with Linear-Time Approximated Hessian Diagonal,unavailable,0,,,,1
+W4388716388,DiLoCo: Distributed Low-Communication Training of Language Models,bibliography_extracted,1,https://arxiv.org/pdf/2311.08105,517393b64beb2da8170e204555111eabe7e7c681e5482c3be252bf9794518b23,11,1
+W4388893866,FONN: Federated Optimization with Nys-Newton,unavailable,0,,,,1
+W4388901838,A Comparative Evaluation of FedAvg and Per-FedAvg Algorithms for Dirichlet Distributed Heterogeneous Data,unavailable,0,,,,1
+W4389111296,Server-Side Stepsizes and Sampling Without Replacement Provably Help in Federated Optimization,unavailable,0,,,,2
+W4389252396,Over-the-Air Federated Averaging With Limited Power and Privacy Budgets,unavailable,0,,,,1
+W4389292806,FopLAHD: Federated Optimization Using Locally Approximated Hessian Diagonal,unavailable,0,,,,1
+W4389650297,Gradient Tracking for High Dimensional Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2312.05590,40274594340928620d80b258bec87c554cdfb63c084736a4e6be1e22d8554eff,43,1
+W4390096970,k-IPfedAvg: k-Anonymous Integrally Private Federated Averaging with Convergence Guarantee,unavailable,0,,,,2
+W4390298679,A Unified Linear Speedup Analysis of Federated Averaging and Nesterov FedAvg,bibliography_extracted,0,https://www.jair.org/index.php/jair/article/download/15180/26994,14399ce21693c87fad23600707e61b63cb52c8e4c91e9dc561a3a47f1c99f43f,53,1
+W4391013346,Asynchronous Local-SGD Training for Language Modeling,bibliography_extracted,0,https://arxiv.org/pdf/2401.09135,6a6e344a7df4d237d0bfe9b039f526a1bb575acf1ceead4c71cba85aa5146828,13,1
+W4391020154,Gradient Tracking with Multiple Local SGD for Decentralized Non-Convex Learning,unavailable,0,,,,1
+W4391020342,On the Performance of Gradient Tracking with Local Updates,bibliography_extracted,0,https://arxiv.org/pdf/2210.04757,99d9ad1e3dbdb1d1ec6f444e5208b731aa14ff9b9c958a8d46c2abee6d09bbb7,7,1
+W4391020603,Towards Bias Correction of FedAvg over Nonuniform and Time-Varying Communications,unavailable,0,,,,1
+W4391022128,Communication-Efficient Local SGD for Over-Parametrized Models with Partial Participation,unavailable,0,,,,1
+W4391769317,Enhancing Federated Learning with Globally Shared Model: A Modified FedAVG Approach (GSM-FedAVG),unavailable,0,,,,1
+W4391857609,Image Classification Using Federated Averaging Algorithm,unavailable,0,,,,1
+W4392175515,Bayesian Over-the-Air FedAvg via Channel Driven Stochastic Gradient Langevin Dynamics,unavailable,0,,,,1
+W4392805355,Alpha-FedAvg: Safeguarding Privacy and Enhancing Forensic Analysis in Federated Learning on Edge Devices,unavailable,0,,,,2
+W4392808390,Decentralized gradient tracking with local steps,bibliography_extracted,0,https://arxiv.org/pdf/2301.01313,9012d0684336fe365f39fa659a2192d40cb84c12aea4c058c77f2851937df6d8,11,1
+W4392909606,FedLion: Faster Adaptive Federated Optimization with Fewer Communication,unavailable,0,,,,1
+W4392909954,FAVANO: Federated Averaging with Asynchronous Nodes,unavailable,0,,,,1
+W4392931182,Communication-Efficient Federated Optimization over Semi-Decentralized Networks,unavailable,0,,,,2
+W4392943261,FReNG: Federated Optimization by Using Regularized Natural Gradient Descent,unavailable,0,,,,1
+W4393138637,Intrusion Detection Model for Wireless Sensor Networks Based on FedAvg and XGBoost Algorithm,unavailable,0,,,,2
+W4393379903,FedAvg for Minimizing Polyak-Łojasiewicz Objectives: The Interpolation Regime,unavailable,0,,,,1
+W4393956393,Architecture-Based FedAvg for Vertical Federated Learning,unavailable,0,,,,2
+W4394712213,PE-FedAvg: A Privacy-Enhanced Federated Learning for Distributed Android Malware Detection,unavailable,0,,,,1
+W4394861222,Federated Optimization with Doubly Regularized Drift Correction,bibliography_extracted,0,https://arxiv.org/pdf/2404.08447,9b29aa1ca2c8fd491d1d4d3dff9c3ede18c5a6e30ad8f322c4d00fee3a4a78af,10,1
+W4395009965,Edge Federated Optimization for Heterogeneous Data,unavailable,0,,,,2
+W4395028180,Unsupervised Federated Optimization at the Edge: D2D-Enabled Learning Without Labels,unavailable,0,,,,1
+W4396843931,HBIAS FedAvg: Smooth Federated Learning Transition for In-use Edge Models,unavailable,0,,,,1
+W4398237007,A Comprehensive Fraud Detection for Credit Card Transactions in Federated Averaging,unavailable,0,,,,1
+W4399565271,Extending the Scope of Gradient Reconstruction Attacks in Federated Averaging,unavailable,0,,,,1
+W4399629734,Advancing Healthcare Iot Security: Federated Learning and the Fedavg Approach,bibliography_extracted,0,https://assets-eu.researchsquare.com/files/rs-4471086/v1_covered_65988b52-6657-4339-ac60-15d588d66bda.pdf?c=1718286046,c231859091de1bf38a537fb2db195a37649e4a23cdd0090ff1d27e074bb7b1d0,25,1
+W4400113748,Improving Model Accuracy in Federated Learning with Mish Activation Function and the FedAvg-RAdam Optimization Algorithm,unavailable,0,,,,1
+W4400519214,Stabilized Proximal Point Methods for Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2407.07084,7a89be894fccb64582f12ef84725139640ec2e8b4252123ca4a250541aaea44d,11,1
+W4400601282,OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training,bibliography_extracted,0,https://arxiv.org/pdf/2407.07852,a7e89c5d13c7c476f8280f9f79fc12cae8b148ba8541e9f3b5f47967d9415d5e,6,1
+W4400785928,Federated Optimization Algorithms,bibliography_extracted,0,https://tsisorg.com/index.php/BioQI/article/download/839/751,0fbe9de526a32f7296136fdb52f1813f0fc4ef7ede3cdcc9b3a08d8a7c9780d1,7,1
+W4401044620,Dp-Perfedavg: Safeguarding Client Data Privacy in Personalized Federated Averaging,unavailable,0,,,,1
+W4401071965,X-FedAvg: An Explainable approach to FedAvg in Link Prediction,unavailable,0,,,,1
+W4401386861,"Exploration and Analysis of FedAvg, FedProx, FedMA, MOON, and FedProc Algorithms in Federated Learning",unavailable,1,,,,2
+W4401412995,Minimax Estimation for Personalized Federated Learning: An Alternative between FedAvg and Local Training?,bibliography_extracted,0,https://arxiv.org/pdf/2103.01901,23d97e007d29ea349af83df4f0bfd1553835adb9ef592bb1a1f641bf56a963a6,54,1
+W4401891541,FedAvg-P: Performance-Based Hierarchical Federated Learning-Based Anomaly Detection System Aggregation Strategy for Advanced Metering Infrastructure,unavailable,0,,,,2
+W4402039775,STSyn: Speeding Up Local SGD With Straggler-Tolerant Synchronization,unavailable,0,,,,1
+W4402220261,An improved federated learning method based on MF1-FedAvg and MSRANet for machinery fault diagnosis,unavailable,0,,,,1
+W4402346021,Comparing Federated Stochastic Gradient Descent and Federated Averaging for Predicting Hospital Length of Stay,bibliography_extracted,1,https://arxiv.org/pdf/2407.12741,478ecc773fd20ba18a7e766391f105f5797669e3d70935aeb65bc0132818bd9d,6,1
+W4403390457,Efficient GAN-Based Federated Optimization for Vehicular Task Offloading With Mobile Edge Computing in 6G Network,unavailable,0,,,,1
+W4403555668,Resilient Two-Time-Scale Local Stochastic Gradient Descent for Byzantine Federated Learning,bibliography_extracted,0,https://arxiv.org/pdf/2409.03092,14c8f48be1ed831be5b0c40336a54f83f746e47b199c493db929e0cd3ee7f04e,6,0
+W4403755077,Exploring Scaling Laws for Local SGD in Large Language Model Training,bibliography_extracted,0,https://arxiv.org/pdf/2409.13198,b94121de42ea64a14a1482a26d841544b7afab1871e743109c9bc50e8625762b,10,1
+W4404114703,Multi‐Objective Federated Averaging Algorithm,unavailable,0,,,,1
+W4404229640,Federated Virtual Sensors for IoT: Applying Machine Learning Algorithms Through Federated Averaging and Distributed Intelligence,unavailable,0,,,,1
+W4404306292,Efficient Adaptive Federated Optimization,unavailable,0,,,,1
+W4404422220,"Design of an Improved Model for Spectrum Sharing and Resource Management Using Deep Q-Network, Federated Averaging, and Ant Colony Optimization",bibliography_extracted,0,https://internationalpubls.com/index.php/anvi/article/download/1854/1173,66a01521857a1826f4f681102ebe901105c7c343b78755abc7aead2a650c8419,10,1
+W4404593398,CLDP-pFedAvg: Safeguarding Client Data Privacy in Personalized Federated Averaging,unavailable,0,,,,1
+W4404845062,Local SGD for near-quadratic problems: Improving convergence under unconstrained noise conditions,bibliography_extracted,0,https://www.mathnet.ru/links/55f1e270a72e9be89acb484d832ee215/rm10207_eng.pdf,e58754dc9a8b163d9e4d8fde9241426373086d7dd4e53b79afa24bf7acb20cb7,2,1
+W4405034211,Refined Analysis of Federated Averaging and Federated Richardson-Romberg,bibliography_extracted,0,https://arxiv.org/pdf/2412.01389,09de2b2d150557ea9c322bed41ff1f12ddc82f5f1a3ca7c93e16aa1afa353d29,10,1
+W4405075336,Methods with Local Steps and Random Reshuffling for Generally Smooth Non-Convex Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2412.02781,eac988d350c0aaffa59408f181ba46eecbd8b0d0516341081ab41c91ef638707,11,0
+W4405255157,EDiT: A Local-SGD-Based Efficient Distributed Training Method for Large Language Models,bibliography_extracted,0,https://arxiv.org/pdf/2412.07210,9093d30c5f78460f0ab155dcc8d4d0a85a6a28443e426ac429c527ba5ec4d092,11,3
+W4405767452,MARINA-P: Superior Performance in Non-smooth Federated Optimization with Adaptive Stepsizes,bibliography_extracted,0,https://arxiv.org/pdf/2412.17082,6132d3db3c51a2dffdd7dc6b1bf40d7b4da12748a45967bd2f2f74283b0face6,16,1
+W4406073325,A New Theoretical Perspective on Data Heterogeneity in Federated Optimization,bibliography_extracted,1,https://arxiv.org/pdf/2407.15567,37fd224d7c032b8cee532336aacc94f843ccc2359d92acd05c474becf78f9781,9,1
+W4406127969,FedEC: Enhancing model federated averaging via two-sided method,unavailable,0,,,,1
+W4406457730,CLDP=FATD: Secure Federated Averaging Threat Detection Framework for Intelligent Vehicle Sensor Networks Based on Client-Level Differential Privacy,unavailable,0,,,,1
+W4406657953,Securing Data Privacy in Machine Learning: The FedAvg of Federated Learning Approach,unavailable,0,,,,1
+W4407012558,Streaming DiLoCo with overlapping communication: Towards a Distributed Free Lunch,bibliography_extracted,0,https://arxiv.org/pdf/2501.18512,b89b1a45d51cebc9ae8f2d7c6c1e3b0c62d6e1d555fce0322c1a1269a85997ed,13,1
+W4407086797,Convergence Analysis for Differentially Private Federated Averaging in Heterogeneous Settings,unavailable,0,,,,2
+W4407093306,Continuous-Time Analysis of Federated Averaging,bibliography_extracted,0,https://arxiv.org/pdf/2501.18870,72157a149060dc29d82e4bc7d1e0512ae90bc43abbec1361f0d8bdcbf5f66ea9,8,1
+W4407129151,CPFedAvg: Enhancing Hierarchical Federated Learning via Optimized Local Aggregation and Parameter Mixing,unavailable,0,,,,1
+W4407300968,Enhancing federated averaging of self-supervised monocular depth estimators for autonomous vehicles with Bayesian optimization,unavailable,0,,,,1
+W4407759941,Eager Updates For Overlapped Communication and Computation in DiLoCo,bibliography_extracted,0,https://arxiv.org/pdf/2502.12996,b12dbad75962f81c5f70316ebaa58fd89935b77b88bb3e7e9703ef11f0923f00,10,1
+W4407877217,Enhancing Collaborative Deep Learning with Swarm Intelligence and Federated Optimization,unavailable,1,,,,1
+W4408017304,Adaptive Central Acceleration With Variance Control for Robust Federated Optimization in Ubiquitous Intelligence,unavailable,0,,,,1
+W4408280844,A Hybrid Brain Tumor Classification Using FL With FedAvg and FedProx for Privacy and Robustness Across Heterogeneous Data Sources,unavailable,0,,,,1
+W4408400963,Optimizing Privacy-Accuracy Trade-Off in IoT Intrusion Detection: An Analysis of FedAvg and FedProx with Differential Privacy,unavailable,0,,,,1
+W4408663484,Financial risk fraud detection method based on improved FedAvg algorithm,unavailable,0,,,,1
+W4409369769,"A Comparative Analysis of FedAvg, FedProx, and Scaffold in Gait-Based Activity Recognition by Evaluating Accuracy, Privacy, and Explainability",bibliography_extracted,0,https://www.sciencexcel.com/articles/cnpC3r6PRmZB7rAWkyFDlXlb506SbsezBR9bhAjX.pdf,000de46bb6f207d62895dd04e826790ff463671b81ff15300167016df57fe212,6,1
+W4409642515,YOLO Meets FedAVG: A Privacy-Preserving Approach to Autonomous Vehicles Object Detection,unavailable,0,,,,1
+W4409916711,Research on Medical Image Classification Based on Improved FedAvg Algorithm,unavailable,0,,,,1
+W4410258437,Federated Averaging Optimization for Efficient Skin Cancer Image Analysis,unavailable,0,,,,1
+W4410294805,Decentralized Federated Averaging via Random Walk,unavailable,0,,,,1
+W4410334358,Research on the Resistance of the CE-FedAvg Scheme to Model Poisoning Attacks,bibliography_extracted,0,https://pdf.hanspub.org/mos2025145_222572439.pdf,1300a4b52ca74cd1d4756ec9d5df1d8fda57e6d520e31bcbc62c4269a5204022,13,1
+W4410358690,Novel Stealth Communication Round Attack and Robust Incentivized Federated Averaging for Load Forecasting,unavailable,0,,,,1
+W4410828545,AltGDmin: Alternating GD and Minimization for Partly-decoupled (Federated) Optimization,unavailable,0,,,,1
+W4411122879,Advancing Credit Risk Management in Open Banking with Enhanced Federated Averaging Algorithm,bibliography_extracted,0,https://etasr.com/index.php/ETASR/article/download/10266/4910,752d1a4c1b9f5ecd24924d460835d63781ac0b91f8c40a7d70ea6fe95e2d1f8f,6,1
+W4411132291,A Study of Efficient Optimizer Configuration Strategies in Federated Learning for FedAvg and FedProx,bibliography_extracted,0,https://ace.ewapub.com/article/view/23589.pdf,a6e859c385e3d2ca9bf5144bd03618bfd685efb4932c54fc67957be26e692900,7,1
+W4411714923,Privacy-preserving federated learning for heart disease prediction using FedAvg and SHAP -based interpretability,unavailable,1,,,,1
+W4411968061,FedLDR: Federated optimization with label distribution-aware representations,unavailable,0,,,,1
+W4412519736,Multimodal Fusion Multi-Task Learning Network Based on Federated Averaging for SDB Severity Diagnosis,unavailable,0,,,,2
+W4412559180,A functional RNA–based and curvature-aware learning framework for federated optimization,unavailable,0,,,,1
+W4412570223,Entropy-Regularized Federated Optimization for Non-IID Data,unavailable,0,,,,2
+W4412910512,Privacy-Preserving Federated Learning for IoT Botnet Detection: A Federated Averaging Approach,bibliography_extracted,0,https://www.icck.org/article/epdf/tmi/220,9922ca944767b33088996339d12aaa381e58b734e210b125a995092708b6baa5,9,1
+W4412964142,Advancements in Federated Learning: A Analysis Study of Federated Optimization in Heterogeneous Networks,unavailable,0,,,,1
+W4413078336,Minibatch and local SGD: Algorithmic stability and linear speedup in generalization,unavailable,0,,,,1
+W4413842707,"Adaptive Decentralized Knowledge Networks Uniting Causal Generative Models, Federated Optimization, and Cryptographic Proofs for Scalable Autonomous Coordination Mechanisms",bibliography_extracted,0,https://ijsea.com/archive/volume14/issue9/IJSEA14091004.pdf,1a759e513a8af0026ccb4ab700dcb55c020c837f631a80496bc8b00ad1d7ff1e,13,0
+W4413858563,"Local SGD and Federated Learning: Challenge, Application And Future",bibliography_extracted,0,https://www.atlantis-press.com/article/126015353.pdf,c0fbed85ecd9520805b781652f37fee71c6c8bb30936b1df94dfbc2161dd5da5,12,1
+W4413905152,Addressing Data Heterogeneity in Federated Learning: A Comparative Study of FedAvg and FedProx under IID and Non-IID Scenarios,unavailable,1,,,,1
+W4414070565,Fedavg-Db: A Dual-Loop Dynamic Batch Optimization Framework for Efficient and Robust Federated Learning,unavailable,0,,,,2
+W4414409941,RF-FedAvg: Federated learning-based random forest model for intrusion detection in wireless sensor networks,unavailable,0,,,,1
+W4414488836,Widening the Network Mitigates the Impact of Data Heterogeneity on FedAvg,bibliography_extracted,0,https://arxiv.org/pdf/2508.12576,204dc10a601165f182a23dde1027e16bf3f982e2ce6d613f5ff2034fda238c35,9,1
+W4414586760,Kuramoto-FedAvg: Using Synchronization Dynamics to Improve Federated Learning Optimization under Statistical Heterogeneity,bibliography_extracted,0,https://arxiv.org/pdf/2505.19605,ac16e409622b5c1357b19abb195f70f247632120a4ef51b9f5166ba9848141a2,10,1
+W4414597365,"Understanding Outer Optimizers in Local SGD: Learning Rates, Momentum, and Acceleration",unavailable,0,,,,1
+W4414764971,Edge-Enhanced Federated Optimization for Real-Time Silver-Haired Whirlwind Trip,unavailable,0,,,,2
+W4414940569,DP-FMeta: A Differentially Private Federated Optimization Framework Based on Meta Prediction,unavailable,0,,,,1
+W4414968835,Distributed Low-Communication Training with Decoupled Momentum Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2510.03371,41534b6a171b58bda4fb5a13e03b276443b4ccac07084c40da7cd33e0e6744a5,6,1
+W4415180672,Federated Learning Approaches for IoT Intrusion Detection Based on FedAvg and FedProx on IID and Non-IID Data,unavailable,0,,,,1
+W4415183007,DiLoCoX: A Low-Communication Large-Scale Training Framework for Decentralized Cluster,bibliography_extracted,0,https://arxiv.org/pdf/2506.21263,906747f735665d719610b761840abe5c9faed78a19a1722b9c2919dcf10597c0,8,1
+W4415332306,Local SGD and Federated Averaging Through the Lens of Time Complexity,bibliography_extracted,0,https://arxiv.org/pdf/2509.23207,18f5899d72fdf2b1c530fdf24e50dac16e060204a5369bdb5786d2230dad3ff6,10,0
+W4415491345,FSAC-AFedAvg: Federated Soft Actor-Critic Reinforcement Learning-Based Intrusion Detection System with Adaptive Federated Averaging,unavailable,0,,,,1
+W4415754408,Leveraging FedSHE-Based FedAVG for Efficient Privacy-Preserving Federated Learning and Secure Model Aggregation,unavailable,0,,,,1
+W4415792991,DSL-SGD: Distributed Local Stochastic Gradient Descent with Delayed Synchronization,unavailable,0,,,,1
+W4415796305,SLowcalSGD : Slow Query Points Improve Local-SGD for Stochastic Convex Optimization,unavailable,0,,,,1
+W4415937788,Why Federated Optimization Fails to Achieve Perfect Fitting? A Theoretical Perspective on Client-Side Optima,bibliography_extracted,0,https://arxiv.org/pdf/2511.00469,64eea104f30f2d628393accf7e7c33cffdd1d9576d72f702ce7f3239aa6482d1,22,1
+W4416033158,Communication-Efficient Language Model Training Scales Reliably and Robustly: Scaling Laws for DiLoCo,unavailable,0,,,,1
+W4416075885,HALoS: Hierarchical Asynchronous Local SGD over Slow Networks for Geo-Distributed Large Language Model Training,bibliography_extracted,0,https://arxiv.org/pdf/2506.04531,9ceeeaa0f08ec2e1c4ab7aca764905fd2082c58513c77d3eaa9121e300015659,10,1
+W4416250089,The Built-In Robustness of Decentralized Federated Averaging to Bad Data,unavailable,0,,,,1
+W4416381421,Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training,bibliography_extracted,0,https://arxiv.org/pdf/2504.18454,857f3a71c06c61539809809be8b6059a75d814b5415ea08678b37677b4edc352,13,1
+W4416613133,MuLoCo: Muon is a practical inner optimizer for DiLoCo,bibliography_extracted,0,https://arxiv.org/pdf/2505.23725,ae26efe67183b38d21bd04979835f856cd0e9b2ee9866d959c310abdbe53348c,24,1
+W4416717138,Evaluating Local Update Strategies in FedAvg: Effects of Local Epochs and Client Participation on CIFAR-10,bibliography_extracted,0,https://tns.ewapub.com/article/view/29902.pdf,19b1f307a016ad29a0a34ed242aefb66b5655fce7c65d08e532c956983831acc,11,1
+W4416771505,On the Limits of Momentum in Decentralized and Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2511.20168,2c7ec540257c61b2f5deb22e86bcbd0a7ffe87a6a961a4493cad635bc6e1568e,7,0
+W4416799588,Scaled Entropy Guided FedAvg: Improving Federated Learning on Imbalanced Data,unavailable,0,,,,1
+W4416863054,Biased Local SGD for Efficient Deep Learning on Heterogeneous Systems,bibliography_extracted,0,https://arxiv.org/pdf/2508.08540,41156201c03afaf7ce715f4a7e8acf2da3c591f4dca97ac6e620430f7e457c49,10,1
+W4416934792,Privacy-Preserving Federated Averaging on Heterogeneous Data,unavailable,0,,,,1
+W4416998628,Decentralized cybersecurity in smart grids: Leveraging location-fedavg for rapid threat detection and adaptive resilience,unavailable,0,,,,1
+W4416999346,Communication-Efficient Federated Optimization with Gradient Clipping and Attention Aggregation for Data Analytics and Prediction,unavailable,0,,,,2
+W4417098420,Aggregation on Learnable Manifolds for Asynchronous Federated Optimization,bibliography_extracted,0,https://arxiv.org/pdf/2503.14396,bce796c7e9f30a50c0226a0dd8e7241519bd6d1a0a475e5bd7ef504a57770687,9,3
+W4417106828,6G Deep Federated Optimization for Intelligent Data Quantum‐Resistant Routing and Monitoring System Using Game Theory,unavailable,0,,,,1
+W4417357098,NoLoCo: No-all-reduce Low Communication Training Method for Large Models,bibliography_extracted,0,https://arxiv.org/pdf/2506.10911,dcccf54b352e3f4a43a7e77be8ba0b9c20d06ac7baff37e34bb599425cf10944,10,1
+W4417404467,Challenging Federated Learning for Drug–Gene Interaction Prediction: A Comparative Study of FedAvg and FedProx Feasibility,unavailable,0,,,,1
+W4417509959,Privacy-Preserving Aggregation in IoT Sensor Networks via Federated Averaging Algorithms,unavailable,0,,,,1
+W6887892887,Optimal Client Sampling for Federated Learning,bibliography_extracted,0,https://arxiv.org/pdf/2010.13723,e650f3543390a1fb6450dbe8a809f34d38c3e6e1bc5dbe33babbed55175d650f,15,1
+W7077910239,AdLoCo: adaptive batching significantly improves communications efficiency and convergence for Large Language Models,bibliography_extracted,0,https://arxiv.org/pdf/2508.18182,56dd56b3a12ba1794738a4d39b4f24d09828be73ada114177cede0a38f8c6e1a,8,0
+W7106129182,What happens when nanochat meets DiLoCo?,bibliography_extracted,0,https://arxiv.org/pdf/2511.13761,69560a2cc6cf0e1f7aa9b598e2f300a79e0cf77c3516bf92f08e3a45574063a2,7,1
+W7110908710,An Investigation on the Heterogeneous Robustness of the ResNet- Based FedAvg Model,unavailable,1,,,,1
+W7114990842,Multi-Objective Federated Optimization for Decentralized AI-Driven Computing Systems,bibliography_extracted,0,https://aijcst.org/index.php/aijcst/article/download/30/26,b355776d8baba04698b328951772c194c464c5a65eaf9835d8680938b6c59fd6,11,1
+W7116784972,AI-Driven 5G Networks: Federated Optimization for Sustainable Telecommunications,bibliography_extracted,0,https://ojs.bonviewpress.com/index.php/AIA/article/download/5450/1756,909407c17ce5bdae0d73bb00b179240fdd87848b8edbeeaad03b4ab957066fb1,7,1
+W7116844903,Smoothing DiLoCo with Primal Averaging for Faster Training of LLMs,bibliography_extracted,0,https://arxiv.org/pdf/2512.17131,e773ed91da6d6b8f27fbb72201c864230de6a6bab46483a3e526febd76c97069,11,1
+W7117661812,Mechanistic Evidence for Preserved-but-Misaligned Representations in Non-IID FedAvg,bibliography_extracted,0,https://arxiv.org/pdf/2512.23043,5357c3673f6c970560098f47ae363e305fa48476c143ba4ccd548d0c6a32f37c,8,1
+W7117723730,DualMask: Federated optimization of privacy-utility-efficiency trilemma via orthogonal gradient perturbation and RL-optimized PSO,bibliography_extracted,0,https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0338822&type=printable,1895b3a24a7a31b1a42c10f4808a038c41675d097b9220cd9e85d512f7fc6248,20,1
+W7118857040,Dynamic-PBFT: Enhanced Consensus in Decentralized Federated Averaging for V2V Networks,unavailable,0,,,,1
+W7118972840,FedSCAM (Federated Sharpness-Aware Minimization with Clustered Aggregation and Modulation): Scam-resistant SAM for Robust Federated Optimization in Heterogeneous Environments,bibliography_extracted,0,https://arxiv.org/pdf/2601.00853,95d6fa093956e93ef7c0808a17f3e56f4575f4122ffd028d78d475e0d2b6a863,10,3
+W7124171988,Federated Learning for IoT Intrusion Detection: A Comparative Study of FedAvg and FedAvgM on the N-BaIoT Dataset,unavailable,0,,,,1
+W7125590469,Federated Averaging with Multi-Label CNN for Robust Lung Disease Detection in Chest,unavailable,0,,,,1
+W7126061384,Clustered Federated Learning under Non-IID Data: A Comparison with FedAvg,unavailable,0,,,,1
+W7128766240,Adaptive Multimodal Federated Optimization with Privacy and Blockchain Trust,unavailable,0,,,,1
+W7130574143,FedAvg-P: Performance-Driven Aggregation Strategy in Hierarchical Federated Learning for Anomaly Detection Within AMI Networks,unavailable,0,,,,1
+W7131434195,Revolutionizing Heart Disease Prediction with XGBoost and FedAvg in Federated Learning*,unavailable,0,,,,1
+W7133190645,"Zeroth-Order Methods for Nondifferentiable, Nonconvex, and Hierarchical Federated Optimization",bibliography_extracted,1,https://papers.neurips.cc/paper_files/paper/2023/file/0a70c9cd8179fe6f8f6135fafa2a8798-Paper-Conference.pdf,06474984f588ce000a2f722e2f4b274d1f358f87e83d1231e4c14d14168aaff3,11,1
+W7133193413,"On Convergence of FedProx: Local Dissimilarity Invariant Bounds, Non-Smoothness and Beyond",bibliography_extracted,0,https://arxiv.org/pdf/2206.05187,f6abaa37fbfbba341e84130812c1d6345503133910cbb491d183033a9847be3b,18,1
+W7133216270,FedAvg with Fine Tuning: Local Updates Lead to Representation Learning,unavailable,0,,,,1
+W7133217791,Global Convergence Analysis of Local SGD for Two-layer Neural Network without Overparameterization,bibliography_extracted,1,https://papers.neurips.cc/paper_files/paper/2023/file/4dade38eae8c007f3a564b8ea820664a-Paper-Conference.pdf,babb730c45358eb928b84d82f8f2e6efcddf337eb32b3920a2704a87d35ae91a,11,1
+W7133242813,FedNAR: Federated Optimization with Normalized Annealing Regularization,unavailable,0,,,,1
+W7135072590,Convergence Of Agnostic Federated Averaging,unavailable,0,,,,1
+W7136238639,PC-FedAvg: Personalized Federated Learning for One-Class SVMs in Smart City Monitoring Systems,unavailable,0,,,,1
+W7137852524,OptFedAvg: A Client Selection Optimizer for Efficient Federated Learning,unavailable,0,,,,1
+W7138130116,Non-Convex Federated Optimization under Cost-Aware Client Selection,bibliography_extracted,0,https://arxiv.org/pdf/2512.05327,3b91bd23c55fc4b4240189d9fbd71032f28197b0a9fe816736772f491744a0d2,13,1
+W7140178136,Federated Optimization for Distributed Wastewater Treatment Parameters Based on Improved FedAvg Algorithm and LSTM Local Models,unavailable,0,,,,1
+W7140273423,Performance Analysis of FedAvg and FedAdam for Privacy-Preserving Federated Image Forensics on IID and Non-IID Data Distributions,unavailable,0,,,,1
+W7140277347,A FedAvg-Based Federated Learning Framework for Brain Tumor Recognition Using Multi-Modal MRI Data,unavailable,0,,,,1
+W7160173108,Class-Wise Federated Averaging for Efficient Personalization,unavailable,0,,,,1
+W7162851356,Adaptive federated learning with differential privacy for multi-institutional healthcare diagnosis: the DP-FedAvg+ framework,bibliography_extracted,0,https://journal.hmjournals.com/index.php/JAIMLNN/article/download/6345/4033,3293b8466d73cf8ceb64876a824d29c490df431b9c3a1034c4e7a42827983b6e,8,1
+W7164002813,The Effect of Data Distribution on Federated Learning Stability: Experimental Insights with FedAvg and FedProx,unavailable,0,,,,1
+W7171318686,Federated Model Training Method for Distributed IoT Terminals Based on Privacy-Preserving FedAvg,bibliography_extracted,0,http://www.wpias.edu.pl/ojs/index.php/JAAT/article/download/307/350,f03ff498a8aedac5169c2ab8258efcf25ba9c7b139298d20b127d051c4e48f85,11,1
+W7172400342,Heterogeneity-Aware Federated Optimization with Secure Aggregation for Distributed Data Mining,bibliography_extracted,1,https://zenodo.org/records/21787549/files/Heterogeneity-Aware%20Federated%20Optimization%20with%20Secure%20Aggregation%20for%20Distributed%20Data%20Mining.pdf,a3addea44bf780e49b1acf3584da64b9c56d82c41d0956a73a69b2cab82d608d,10,1
+W7196939348,Revisiting Consensus Error: A Fine-grained Analysis of Local SGD under Second-order Data Heterogeneity,bibliography_extracted,1,https://papers.nips.cc/paper_files/paper/2025/file/54cee855c7eb9429b4b3668d06bf670f-Paper-Conference.pdf,1e60676a089cd132e9ab40d7cf3905f241b562b95bc9a03129defac917256df2,11,1
+W7206076352,Regularizing gradient reconstruction attacks in federated averaging,bibliography_extracted,1,https://cea.hal.science/cea-05250919/document,21f81f51f37432db10b0e73b9a4e819d1432009c2c19a8e303735df57987998d,5,1

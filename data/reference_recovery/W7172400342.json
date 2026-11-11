@@ -1,0 +1,28 @@
+{
+  "id": "W7172400342",
+  "title": "Heterogeneity-Aware Federated Optimization with Secure Aggregation for Distributed Data Mining",
+  "no_indexed_refs": true,
+  "attempts": [
+    {
+      "url": "https://doi.org/10.5281/zenodo.21787548",
+      "result": "success"
+    }
+  ],
+  "status": "bibliography_extracted",
+  "retrieved_at": "2026-11-10T16:01:00.807464+00:00",
+  "extractor_version": 3,
+  "url": "https://zenodo.org/records/21787549/files/Heterogeneity-Aware%20Federated%20Optimization%20with%20Secure%20Aggregation%20for%20Distributed%20Data%20Mining.pdf",
+  "pdf_sha256": "a3addea44bf780e49b1acf3584da64b9c56d82c41d0956a73a69b2cab82d608d",
+  "page_count": 11,
+  "reference_start_page": 10,
+  "bibliography": [
+    {
+      "page": 10,
+      "text": "[1] Gao L, Fu H, Li L, et al. Feddc: Federated learning with non-iid data via local drift decoupling and\ncorrection[C]//Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022: 1011210121.\nArtificial Intelligence and Computing Innovations\n"
+    },
+    {
+      "page": 11,
+      "text": "[2] Guo Y, Tang X, Lin T. Fedbr: Improving federated learning on heterogeneous data via local learning bias\nreduction[C]//International conference on machine learning. PMLR, 2023: 12034-12054.\n[3] Jiang X, Rodomanov A, Stich S U. Federated optimization with doubly regularized drift correction[J]. arXiv\npreprint arXiv:2404.08447, 2024.\n[4] Guo H, Wang H, Song T, et al. Siren+: Robust Federated Learning With Proactive Alarming and Differential\nPrivacy[J]. IEEE Transactions on Dependable and Secure Computing, 2024, 21(5): 4843-4860.\n[5] Campos E M, Gonzalez-Vidal A, Hernández-Ramos J L, et al. FedRDF: A robust and dynamic aggregation\nfunction against poisoning attacks in federated learning[J]. IEEE Transactions on Emerging Topics in Computing,\n2024, 13(1): 48-67.\n[6] Hasan M, Zhang G, Guo K, et al. Calibrated one round federated learning with bayesian inference in the predictive\nspace[C]//Proceedings of the AAAI conference on artificial intelligence. 2024, 38(11): 12313-12321.\n[7] Wang Y, Zhang A, Wu S, et al. VOSA: Verifiable and oblivious secure aggregation for privacy-preserving\nfederated learning[J]. IEEE Transactions on Dependable and Secure Computing, 2022, 20(5): 3601-3616.\n[8] Chen L, Liu S. Explainable Cross-Market Causal Discovery via Financial Knowledge Graphs[J]. 2024, 3(1).\n[9] Su Z. Microstructure-Aware Risk Detection in High-Frequency Trading Using Embedding and Sequence\nModeling[J]. 2024, 4(3).\n[10] Mei Y. Unified Semi-Supervised and Robust Optimization Framework for Low-Resource Noisy Data Mining[J].\nJournal of Computer Technology and Software, 2024, 3(7).\n[11] Ren X. A Unified Framework for Social Graph Modeling and Node Decision-Making via Differentiable MixedInteger Optimization[J].2024, 3(5).\n[12] McMahan B, Moore E, Ramage D, et al. Communication-efficient learning of deep networks from decentralized\ndata[C]//Artificial intelligence and statistics. Pmlr, 2017: 1273-1282.\n[13] Li T, Sahu A K, Zaheer M, et al. Federated optimization in heterogeneous networks[J]. Proceedings of Machine\nlearning and systems, 2020, 2: 429-450.\n[14] Karimireddy S P, Kale S, Mohri M, et al. Scaffold: Stochastic controlled averaging for federated\nlearning[C]//International conference on machine learning. PMLR, 2020: 5132-5143.\n[15] Reddi S, Charles Z, Zaheer M, et al. Adaptive federated optimization[J]. arXiv preprint arXiv:2003.00295, 2020.\n[16] Wang J, Liu Q, Liang H, et al. Tackling the objective inconsistency problem in heterogeneous federated\noptimization[J]. Advances in neural information processing systems, 2020, 33: 7611-7623.\n[17] Bonawitz K, Ivanov V, Kreuter B, et al. Practical secure aggregation for privacy-preserving machine\nlearning[C]//proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security. 2017:\n1175-1191.\n[18]Kairouz P, McMahan H B, Avent B, et al. Advances and Open Problems in Federated Learning[J]. Foundations and\nTrends® in Machine Learning, 2021, 14(1-2): 1-210.\n\nArtificial Intelligence and Computing Innovations\n"
+    }
+  ]
+}
